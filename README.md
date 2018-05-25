@@ -8,3 +8,5 @@ By converting members’ engagements into exchangeable tokens, members can inves
 To achieve this vision, we need to build a community of members who make valuable engagements, have good reputations and are willing to help each other. This is a community with sound decentralized governance.
 
 Here we present Forbole, a decentralized ecosystem based on endorsements, recommendations and referrals. As members, we endorse the skills and give recommendations to people we really know and trust, and hence we help each other to build reputations. Each member will unleash the potential of one’s circle of influence and create a positive effect on other circles nearby. All these user engagements will be recorded on our Forbole Blockchain which use Tendermint as consensus engine and will be part of the Cosmos Network. Members will be rewarded with our native tokens according to the contributions they have made.
+
+Forbole will evolve into a decentralized crowdfunding platform and become a hub for other blockchain projects. Users will then be able to support new blockchain projects through currencies, tokens or sweat capitals easily.
