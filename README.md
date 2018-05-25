@@ -1,5 +1,5 @@
 # White Paper
-The White Paper of Forbole Blockchain
+This is the Whitepaper of Forbole Blockchain.
 ## Abstract
 All successful projects have one critical success factor in common: the active engagements by their members. Without these engagements, projects cannot achieve the tractions they need to gain further access to financial resources. Members’ engagements can be, and should be viewed as a non-financial investment in the projects. But in today’s world, this concept is invalidated by the giant companies who act as a central governing power to monopolize revenue models and pay no reward to the above non-financial investment.
 
