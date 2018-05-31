@@ -1,5 +1,8 @@
 # White Paper
-This is the Whitepaper of Forbole Blockchain.
+
+This is the Whitepaper (v 0.1) of Forbole.
+(Draft for comments from community members and subject to change)
+
 ## Disclaimer
 This Whitepaper and any other documents published in association with this Whitepaper relate to the intended development and use of Forbole. They are information purposes only and may be subject to change. 
 
@@ -200,31 +203,11 @@ BF:		  15% (30,000,000 Desmos)
 Donors include all the donors at different stage of the Fundraiser. We design our Fundraiser to reflect our actual need. Prior to the public crowdsale, we plan 3 private rounds and 1 public round as follow:
 
 | Periods | Fundraise Target | Desmos price | Number of Desmos | % of initial supply | Main usage |
-1st to 31rd  Jul 2018
-USD 120,000-
-USD 0.06 
-2,000,000
-1%
-BF administration and software development
-1st to 31st Aug 2018
-USD 210,000-
-USD 0.07
-3,000,000
-1.5%
-Software and community development
-1st to 30th Sep 2018
-USD 400,000-
-USD 0.08
-5,000,000
-2.5%
-Software and community development
-1st to 30th Nov 2018
-USD 12,000,000
-(hardcap)
-USD 0.1
-120,000,000
-60%
-Software and community development
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 1st to 31rd Jul 2018 | USD 120,000- | USD 0.06 | 2,000,000 | 1% | BF administration and software development |
+| 1st to 31st Aug 2018 | USD 210,000- | USD 0.07 | 3,000,000 | 1.5% | Software and community development |
+| 1st to 30th Sep 2018 | USD 400,000- | USD 0.08 | 5,000,000 | 2.5% | Software and community development |
+| 1st to 30th Nov 2018 | USD 12,000,000 (hardcap) | USD 0.1 | 120,000,000 | 60% | Software and community development |
 
 Please be reminded again that Phanero, the fee tokens on Forbole, will not have crowdsale.
 
@@ -300,25 +283,36 @@ Jade love to read self-learning books, watch drama and travel. Enjoy eating and 
 
 ## Milestones
 
-31 July 2018:			
+### 31 July 2018:
+
 Complete private round 1 of Fundraiser
+
 Improve the details of tokenomics 
 
-31 August 2018:		
+### 31 August 2018:
+
 Complete private round 2 of Fundraiser
+
 Complete BF’s administration and operation
+
 Improve the details of governance structure
+
 Launch of testnet (alpha)
 
-30 September 2018:
+### 30 September 2018:
+
 Complete private round 3 of Fundraiser
+
 Continuous improvement of UX
 
-30 November 2018:		
+### 30 November 2018:
+
 Complete public round of Fundraiser
+
 Launch of testnet (beta)
 
-31 March 2019:		
+### 31 March 2019:
+
 Official launch
 
 ## Contacts
