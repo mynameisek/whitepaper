@@ -1,7 +1,27 @@
-# White Paper
+# Forbole White Paper
+
+**An ecosystem of engagements and reputations as capitals**
 
 This is the Whitepaper (v 0.1) of Forbole.
 (Draft for comments from community members and subject to change)
+
+## Table of Contents
+
+* [Disclaimer](#disclaimer)
+* [Abstract](#abstract)
+* [Problems](#problems)
+* [Proof-of-Contributions](#proof-of-contributions)
+* [Decentralized Tokens Crowdfunding](#decentralized-tokens-crowdfunding)
+* [Token Model](#token-model)
+ * [Desmo](#desmo)
+ * [Phanero](#phanero)
+ * [Proposed hard spoon on Steem](#proposed-hard-spoon-on-steem)
+* [Fundraiser](#fundraiser)
+  * [Initial Token Distribution](#initial-token-distribution)
+* [Reasons for using Cosmos SDK](#reasons-for-using-cosmos-sdk)
+* [Our Team](#our-team)
+* [Milestones](#milestones)
+* [Contacts](#contacts)
 
 ## Disclaimer
 This Whitepaper and any other documents published in association with this Whitepaper relate to the intended development and use of Forbole. They are information purposes only and may be subject to change. 
@@ -133,11 +153,11 @@ We are using Cosmos SDK to develop our project. Cosmos team has taken some revol
 
 In the token model of the Cosmos Hub, it is stated that:
 
-“......In this single token model, the economic utility of said token is twofold: staking and transactional. This introduces more liquidity into the token as greater utility is bundled into a single token, and creates less of an incentive for people to stake their tokens. What’s more worrisome is that greater liquidity results in weaker network security, allowing potential attackers to stealthily accrue the amount of tokens necessary to attack a Proof-of-Stake system…...”
+> “......In this single token model, the economic utility of said token is twofold: staking and transactional. This introduces more liquidity into the token as greater utility is bundled into a single token, and creates less of an incentive for people to stake their tokens. What’s more worrisome is that greater liquidity results in weaker network security, allowing potential attackers to stealthily accrue the amount of tokens necessary to attack a Proof-of-Stake system…...”
 
 Steem, another outstanding blockchain project that we have referred to, has addressed the importance of stability for successful economies:
 
-“There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.” (P.8, Steem’s Whitepaper)
+> “There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.” (P.8, Steem’s Whitepaper)
 
 Although the multi-tokens model of Steem and Cosmos Hub are quite different, they share a common goal - incentivize their users to make longer term contributions to the projects.
 
@@ -159,7 +179,7 @@ There will be an inflation of 5 - 20% of the total supply of Desmos per annum. M
 
 Phanero, inspired from Greek word phanerós (φανερός) which means “visible, manifest, evident”, is the fee tokens on Forbole. In fact, we first knew about this word from Jae Kwon, the founder of Tendermint, in his speech in CryptoEconomics Security Conference 2017 which said: 
 
-“...... I feel like, between crypto and economics there’s another word that’s missing which stands for the transparency, so maybe crypto economics should be crypto phanero economics ……” 
+> “...... I feel like, between crypto and economics there’s another word that’s missing which stands for the transparency, so maybe crypto economics should be crypto phanero economics ……” 
 (note: the word “crypto” is from Ancient Greek (κρυπτός) which means “hidden”)
 
 The literal meaning of phanerós aligns with the rationale of our contributions tokenomics - we encourage our users to contribute to our community by helping each other to build reputations through endorsements, recommendations, and referrals. Users are incentivised to become more visible. 
@@ -170,7 +190,7 @@ Phanero block reward will be minted at a constant rate of 24,000 Phaneros per da
 
 According to Steem’s whitepaper: 
 
-“Steem is a blockchain database that supports community building and social interaction with cryptocurrency rewards. Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make subjective contributions to its community.”
+> “Steem is a blockchain database that supports community building and social interaction with cryptocurrency rewards. Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make subjective contributions to its community.”
 
 While Steem focus more on the creation of quality contents, Forbole focus more on the creation of quality relationships. 
 
@@ -196,9 +216,11 @@ Forbole Limited (“FL”) is a for-profit limited liability company incorporate
 
 On Genesis, the initial token supply will be 200,000,000 of Desmos. Initial distribution on genesis is as follows:
 
-Donors: 65% (130,000,000 Desmos)
-FL:		  20% (40,000,000 Desmos)
-BF:		  15% (30,000,000 Desmos)
+| Parties | Distribution |
+| ------- | ------------ |
+| Donors | 65% (130,000,000 Desmos) |
+| FL |	20% (40,000,000 Desmos) |
+| BF |	15% (30,000,000 Desmos) |
 
 Donors include all the donors at different stage of the Fundraiser. We design our Fundraiser to reflect our actual need. Prior to the public crowdsale, we plan 3 private rounds and 1 public round as follow:
 
