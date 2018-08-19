@@ -208,7 +208,7 @@ We plan to launch a Fundraiser to collect donations to support our initiatives. 
 
 [Blockchain Foundation (“BF”, name is subject to change)] is a non-profit foundation to be setup in [name of jurisdiction]. Its purpose is to conduct the Fundraiser designed to collect donations and to contract with entities and their agents for the development of Forbole and its relevant projects and activities (“Forbole’s Project”).
 
-BF is planning a Fundraiser for future staking tokens, called "Desmos", that give the holder limited license to validate Forbole and DCFP. The contributions made in connection with the Fundraiser will go to the BF to develop Forbole’s Project.
+BF is planning a Fundraiser for future staking tokens, called "Desmos", that give the holder limited license to validate Forbole's blockchain. The contributions made in connection with the Fundraiser will go to the BF to develop Forbole’s Project.
 
 Forbole Limited (“FL”) is a for-profit limited liability company incorporated in Hong Kong in October 2017. BF has contracted with FL to develop Forbole’s Project. The team of FL will be the core developer team of Forbole’s Project. As of the date of this Whitepaper, FL is majority-owned by Kwun Yeung and Terence Lam. 
 
