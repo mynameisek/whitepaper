@@ -8,11 +8,11 @@ Terence Lam (terence@forbole.com)
 ## Table of Contents
 
 - [Disclaimer](#disclaimer)
-- [Introduction](#intro)
+- [Introduction](#introduction)
 - [Project Overview](#project-overview)
 - [Forbole Limited](#forbole-limited)
 - [Cosmos and the internet of blockchains](#cosmos-and-the-internet-of-blockchains)
-- [ForboleChain](#forblechain)
+- [ForboleChain](#forbolechain): a blockchain for decentralized social networks
   - [Desmo Token](#desmo-token)
 - [Forbole Referral Network](#forbole-referral-network)
   - [Phanero Token](#phanero-token)
@@ -70,6 +70,47 @@ The root of the above problems is the structural deficiency of the business mode
 Project Forbole is an initiative to build an ecosystem of decentralized social networks. We advocate for a new business model and a new mindset of social networking. We will achieve this by applying blockchain technology and redefining the roles and mindsets of various players.
 
 This Whitepaper aims at providing a deeper understanding of the scope and value proposition of Project Forbole to the audience who are interested in becoming an early mover in this initiative by participating the first private presale of the native token of ForboleChain, the Desmo Token.
+
+## Project Overview
+(graph)
+
+## Forbole Limited
+
+Forbole Limited (“FL”) is a for-profit company limited incorporated in Hong Kong in Oct 2017. The main businesses of FL will be technology solution service and digital asset management. FL is building Big Dipper, ForboleChain and Forbole Referral Network.
+
+At the date of incorporation, FL was cofounded and owned by Kwun Yeung (52%) and Terence Lam (48% on document, while 15% will be an option pool for future employees). As at the date of this Whitepaper, a total angel investment amount of HKD630,000 (USD80,769) has been raised from 12 individuals using [Simple Agreement for Future Equity](https://en.wikipedia.org/wiki/Simple_agreement_for_future_equity_(SAFE)) (“SAFE”) with the latest market cap of USD1.5 million.
+
+## Cosmos and the internet of blockchains
+
+Project Forbole is a Cosmos/Tendermint ecosystem project. Please refer to the [whitepaper of Cosmos](https://cosmos.network/resources/whitepaper) to understand the concepts such as validators and consensus, which also apply in Project Forbole.
+
+For the sake of wide adoption of blockchain, there is a need for our audiences to understand the concepts of internet of blockchains in a non-technical way. Please refer to this [layman’s analogy](https://medium.com/forbole/internet-of-blockchain-a-dangerous-laymans-analogy-bb82410d6038).
+
+## ForboleChain
+**a blockchain for decentralized social networks**
+
+ForboleChain (“FBC”) is the blockchain we are developing. Powered by Cosmos Hub and Tendermint, FBC is a high-performant and byzantine fault tolerant blockchain based on proof-of-stake consensus.
+
+In Cosmos terminology, a [hub](https://cosmos.network/resources/whitepaper#the-hub) is a blockchain that hosts a multi-asset distributed ledger, where tokens can be held by individual users or by [zones](https://cosmos.network/resources/whitepaper#the-zones) themselves. The hub is responsible for preserving the global invariance of the total amount of each token across the zones.
+
+FBC will be a hub connecting to Cosmos Hub and [IRIS Hub](https://github.com/irisnet/irisnet/blob/master/WHITEPAPER.md#iris-network-design), the first regional hub of Cosmos in China. Based on the core developments of Cosmos Hub, FBC will develop its own modules specifically for decentralized social networks, these include the concepts of distributed reputations and contribution-by-engagement.
+
+After reviewing the timeline of Cosmos ecosystem projects and our progress, Q1–2019 is a good timing to launch the testnet of FBC.
+
+## Desmo Token
+
+As of the [atoms](https://cosmos.network/resources/whitepaper#the-atom-token) of Cosmos Hub, FBC will also have a native utility token called Desmos. The name of Desmo [ˈdɛsmɒ] was inspired from Ancient Greek desmós (δεσμός) which means “bond, relationship”. Desmos are a license for the holder to vote, validate, or delegate to other validators on FBC. Desmos can also be used to pay for transaction fees to mitigate spam.
+
+We suggest an inflation rate of 5–20% of the total supply of Desmos per annum. Inflationary Desmos and block transaction fees are rewarded to validators and delegators who delegate to validators.
+
+
+
+
+
+
+
+
+
 
 
 
