@@ -176,19 +176,66 @@ The idea of FRN was derived from our own experiences in business networking. We 
 
 The sources of income of FRN are membership fee and advertising income just like other social networks. To encourage wide adoption, we need to be inclusive enough for fiat currencies user. In early stage, we expect FRN will receive most of its income in fiat. After deducting the management fee for FL, the balance will become a reserve to provide liquidity for Phanero. Ones may regard this reserve as the “buyer of last resort” in the secondary market of Phanero. Through this arrangement, we convert the traditional centralized business model of SNS into a decentralized one where the business of FRN is owned by its true owners: Phanero holders.
 
+### Interaction between Desmo and Phanero
 
+The interaction between Desmo and Phanero will be quite interesting from various perspectives.
 
+#### Off-chain governance
 
+FRN can play a crucial role in off-chain governance of FBC and other Cosmos ecosystem projects as the users who have made endorsements, recommendations and referrals to other users are in fact staking their own reputations. 
 
+As a member of Cosmos ecosystem, we have already seen the importance of off-chain governance during Game of Stakes. FRN can be used as a tool for doing KYC whether you want to join force with cartels, anti-cartels or anti-anti-cartels. This also applies to business world when ones want to partner with or recruit for other people. You may not know those people who made those endorsements, recommendations and referrals to your potential partners but you know that those engagements are made by those who have staked their reputations and being rated through meta-moderation. 
 
+#### Converting Phanero to Desmo
 
+To encourage FRN users to participate the governance, we need to provide privilege for Phanero holder to convert their Phanero to Desmo. One possible way is to set aside a portion of Desmo inflation exclusive for Phanero holder to exchange for Desmo at a preferential rate.
+One question is whether this preferential rate is for one-way conversion only or two-way exchange between the two tokens. If Desmo can also be converted into Phanero, the economy of Desmo will then be partially supported by the business model of FRN. But this will further blur the value propositions of Desmo and Phanero which are in fact complete different. Anyhow, this will be decided through governance on FBC.
 
+## Fundraisers
 
+To fund this revolution, a series of presale of Desmo will take place.
 
+### Initial Distribution of Desmos
 
+The number of Desmos at genesis will be capped at 200,000,000. They will be distributed in different rounds of presale according to our development plan. The initial distribution of Desmo is as follows:
 
+- 10% (20,000,000): Investment arm of FL
+- 5% (10,000,000): Community
+- 5% (10,000,000): Current stakeholders
+- 80% (160,000,000): A number of rounds of presale
 
+(Forbole - Desmo Token Initial Distribution (20190104))
 
+#### Investment arm of FL (10%)
+
+To achieve decentralization, we need to create a diversity of projects on FBC. We cannot (and should not) develop all the projects by ourselves. Instead of solely relying on in-house team, we will create an investment arm under FL to invest in Forbole ecosystem projects.
+As we have seen the limitations and administrative costs of a non-profit foundation, we propose to make this investment arm a for-profit subsidiary of FL and will evolve into its main business. This will replace the non-profit foundation we often see in ICO. We believe this would create a good incentive for FL to build Forbole ecosystem.
+
+#### Community (5%)
+
+The community we defined here is more than the normal scope we see in the market. Our community will be further divided into:
+
+- Future staff of Forbole Limited (1%): Our future staff should also be the active contributors to the community.
+- Consultants (1%): This means the future consultants, advisors and freelancers who provide their services in reward for Desmos as part or all of their remunerations.
+- Community bounty (3%): This is a pool for both developers community and early adopters community of FRN. This motivates developers to assist in the technical development. It will also boost the virality of FRN.
+
+#### Current stakeholders (5%)
+
+This is common in a crowdsale that the project company and/or its team will be allotted free tokens as an incentive. Most of them won’t have a sufficient transparency in disclosure, and we want to do it in a slightly modified way.
+
+Instead of allotting all this 5% to FL as its incentive, we will allot half of them (2.5%) to FL and the remaining half (2.5%) directly to the 2 co-founders, the 12 existing SAFE investors of FL, 4 individuals who participated in our previous short-lived crowdfunding campaign and 2 individuals as teammates. We believe this arrangement can further decentralize the decision of how to handle these tokens. It also provides more transparency.
+
+Although this 2.5% to FL and the 10% as described in section 3 are all allotted to FL, they will be managed separately. We hope the 10% as investment arm will be managed like a crypto VC.
+
+#### Crowdfundraisers (80%)
+
+##### Many rounds vs one-off ICO
+
+We decided to arrange a few rounds of private presale of Desmo, phase by phase, according to our development plan. The final round maybe a public crowdsale, which is subject to further advices. Reasons can be summarized as follow:
+
+- Sense of ownership play a crucial role in motivating the community. We noticed that in quite some crypto projects, a lot of late but engaging community members have missed the token sales. For example, even though we are active in Cosmos community, we have missed its fundraiser. We hope that people will have the chance to join at different stages according to their understanding in the project, affordability and risk appetites.
+- Currently, we are not back by institutional investors. While this seems to be a weakness, we see opportunity. We have the free hands to make the project as decentralized, diversified and inclusive as possible.
+- We want to kickstart as simple as possible and then get back to work.
 
 
 
