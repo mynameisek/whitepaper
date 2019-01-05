@@ -240,7 +240,7 @@ We decided to arrange a few rounds of private presale of Desmo, phase by phase, 
 - We want to kickstart as simple as possible and then get back to work.
 
 ### First private presale of Desmo: The Round Table (10%)
-**“… (The Round Table) has no head, implying that everyone who sits there has equal status…” ([Wiki])(https://en.wikipedia.org/wiki/Round_Table)**
+> “… (The Round Table) has no head, implying that everyone who sits there has equal status…” ([Wiki](https://en.wikipedia.org/wiki/Round_Table))
 
 The first private presale of Desmo is also called the Round Table of Validators as we hope to be decentralized as early as possible. We cordially invite validators or investors (delegators) to join this round. Validators who join this round will play a decisive role in cofounding this revolution of social networks.
 
@@ -320,6 +320,7 @@ Launched in Sep 2018, Big Dipper is an open-source real-time block explorer for 
 As at the time of this Whitepaper, Big Dipper is [broadcasting Game of Stakes](https://twitter.com/forbole/status/1080865316589076480).
 
 Website: https://bigdipper.forbole.com/
+
 GitHub repo:
 - https://github.com/forbole/big_dipper
 - https://github.com/forbole/gaia_bot_monitor
