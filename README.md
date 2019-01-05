@@ -8,7 +8,7 @@ Terence Lam (terence@forbole.com)
 ## Table of Contents
 
 - [Disclaimer](#disclaimer)
-- [Introduction](#introduction)
+- [Introduction](#intro)
 - [Project Overview](#project-overview)
 - [Forbole Limited](#forbole-limited)
 - [Cosmos and the internet of blockchains](#cosmos-and-the-internet-of-blockchains)
