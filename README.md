@@ -115,9 +115,9 @@ The beta of FRN will be released in Jan-2019. Please click [here](https://www.yo
 
 Phanero [fəˈnærəʊ] is the token to support the crypto economics of FRN. The name is inspired from Ancient Greek phanerós (φανερός) which means “visible, manifest, evident”. We first knew about this word from Jae Kwon, the cofounder of Cosmos, in his speech in CryptoEconomics Security Conference 2017 (click [here](https://youtu.be/8Eex-wQ5yYU?t=23) for the speech):
 
-“… I feel like, between crypto and economics there’s another word that’s missing which stands for the transparency, so maybe crypto economics should be crypto phanero economics …”
+> “… I feel like, between crypto and economics there’s another word that’s missing which stands for the transparency, so maybe crypto economics should be crypto phanero economics …”
 
-“…there’s this duality between hiding something and sharing something, and what blockchain does or what bitcoin has done it’s shown us a way to coordinate ourselves in a new way by using cryptography to share information and not share information in ways that were not possible before and thereby creating a new ecosystem.”
+> “…there’s this duality between hiding something and sharing something, and what blockchain does or what bitcoin has done it’s shown us a way to coordinate ourselves in a new way by using cryptography to share information and not share information in ways that were not possible before and thereby creating a new ecosystem.”
 
 The literal meaning of phanerós is exactly what we want to achieve in FRN. We encourage users to help each other to build reputations through serious and engaging interactions such as endorsements, recommendations and referrals. Users are incentivised to become more visible.
 
@@ -141,21 +141,21 @@ We need a social networking ecosystem of the users, by the users, for the users.
 
 Currently, SNS providers think they are the emperors who own every data of their users (the peasants) and turn that into gold. At the same time, the users (the slaves) are bewitched to work (make engagements) for the SNS providers for free. By adopting the layman’s analogy we mentioned earlier, we want to redefine the stakeholders and entities of Forbole ecosystem as follow:
 
-**The internet of blockchains is the world of nations.**
+> **The internet of blockchains** is the world of nations.
 
-**FBC is one of these nations. FRN is the first province in FBC.**
+> **FBC** is one of these nations. FRN is the first province in FBC.
 
-**Members of Forbole ecosystem are the citizens with various right depending on the passports they are holding**
+> **Members** of Forbole ecosystem are the citizens with various right depending on the passports they are holding
 
-**Validators of FBC are the congressmen of FBC who participate the governance of FBC and sometimes its provinces.**
+> **Validators** of FBC are the congressmen of FBC who participate the governance of FBC and sometimes its provinces.
 
-**Desmo and Phanero are two types of passports that entitle the citizens different rights in Forbole ecosystem.**
+> **Desmo and Phanero** are two types of passports that entitle the citizens different rights in Forbole ecosystem.
 
-**Desmo entitles its holder the partial ownership in FBC. Desmo will be used as the staking token to perform the operation and governance of FBC. Desmo holders will delegate their Desmo to their choices of validators.**
+> **Desmo** entitles its holder the partial ownership in FBC. Desmo will be used as the staking token to perform the operation and governance of FBC. Desmo holders will delegate their Desmo to their choices of validators.
 
-**Phanero entitles its holder the partial ownership in FRN. A funding pool will be created from the income of FRN and used to provide liquidity for Phanero (see below).**
+> **Phanero** entitles its holder the partial ownership in FRN. A funding pool will be created from the income of FRN and used to provide liquidity for Phanero (see below).
 
-**FL as a company, is the team to serve Forbole ecosystem at various capacities such as service provider, facilitator, tokens holder, validator and investor.**
+> **FL** as a company, is the team to serve Forbole ecosystem at various capacities such as service provider, facilitator, tokens holder, validator and investor.
 
 We are eliminating the preconception that the SNS provider (and its shareholders) is the sole owner of the social network. This is no longer valid and satisfactory. As a social network, FRN is owned by the holders of Phanero. By earning Phanero through contribution-by-engagement, every user can become the owner of FRN.
 
