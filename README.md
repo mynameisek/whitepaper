@@ -141,21 +141,21 @@ We need a social networking ecosystem of the users, by the users, for the users.
 
 Currently, SNS providers think they are the emperors who own every data of their users (the peasants) and turn that into gold. At the same time, the users (the slaves) are bewitched to work (make engagements) for the SNS providers for free. By adopting the layman’s analogy we mentioned earlier, we want to redefine the stakeholders and entities of Forbole ecosystem as follow:
 
-*The internet of blockchains is the world of nations.*
+**The internet of blockchains is the world of nations.**
 
-*FBC is one of these nations. FRN is the first province in FBC.*
+**FBC is one of these nations. FRN is the first province in FBC.**
 
-*Members of Forbole ecosystem are the citizens with various right depending on the passports they are holding*
+**Members of Forbole ecosystem are the citizens with various right depending on the passports they are holding**
 
-*Validators of FBC are the congressmen of FBC who participate the governance of FBC and sometimes its provinces.*
+**Validators of FBC are the congressmen of FBC who participate the governance of FBC and sometimes its provinces.**
 
-*Desmo and Phanero are two types of passports that entitle the citizens different rights in Forbole ecosystem.*
+**Desmo and Phanero are two types of passports that entitle the citizens different rights in Forbole ecosystem.**
 
-*Desmo entitles its holder the partial ownership in FBC. Desmo will be used as the staking token to perform the operation and governance of FBC. Desmo holders will delegate their Desmo to their choices of validators.*
+**Desmo entitles its holder the partial ownership in FBC. Desmo will be used as the staking token to perform the operation and governance of FBC. Desmo holders will delegate their Desmo to their choices of validators.**
 
-*Phanero entitles its holder the partial ownership in FRN. A funding pool will be created from the income of FRN and used to provide liquidity for Phanero (see below).*
+**Phanero entitles its holder the partial ownership in FRN. A funding pool will be created from the income of FRN and used to provide liquidity for Phanero (see below).**
 
-*FL as a company, is the team to serve Forbole ecosystem at various capacities such as service provider, facilitator, tokens holder, validator and investor. *
+**FL as a company, is the team to serve Forbole ecosystem at various capacities such as service provider, facilitator, tokens holder, validator and investor.**
 
 We are eliminating the preconception that the SNS provider (and its shareholders) is the sole owner of the social network. This is no longer valid and satisfactory. As a social network, FRN is owned by the holders of Phanero. By earning Phanero through contribution-by-engagement, every user can become the owner of FRN.
 
@@ -198,8 +198,9 @@ To fund this revolution, a series of presale of Desmo will take place.
 
 The number of Desmos at genesis will be capped at 200,000,000. They will be distributed in different rounds of presale according to our development plan. The initial distribution of Desmo is as follows:
 
-| 10% (20,000,000):  | Investment arm of FL          |
+|**Number of Desmos**|**Parties**                    |
 |-------------------:|:------------------------------|
+| 10% (20,000,000):  | Investment arm of FL          |
 | 5% (10,000,000):   | Community                     |
 | 5% (10,000,000):   | Current stakeholders          |
 | 80% (160,000,000): | A number of rounds of presale |
