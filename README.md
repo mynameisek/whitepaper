@@ -256,10 +256,128 @@ The first private presale of Desmo is also called the Round Table of Validators 
 | Exchange rate:             | as seen below                               |
 | Date of completion:        | 14 Feb 2019                                 |
 
+#### Selling price and valuation
 
+The selling price is USD0.01/Desmo, which implies a valuation of USD2,000,000 at genesis assuming the initial distribution of 200,000,000. This valuation is approximately one-fifth of the market capitalization of some 200th ranked cryptos (as on [coinmarketcap](http://coinmarketcap.com)) at their recent trough levels in Dec 2018. We believe this is a very conservative valuation given the works,  experiences and reputation we have developed so far.
 
+#### Soft cap and hard cap
 
+Soft cap of USD40,000 is already reached as Kwun Yeung and Terence Lam, both the co-founders of FL, will each invest USD20,000 in this round. Together with the remaining cash, Project Forbole can keep going at least until the end of Sep 2019. If we take into account our bootstrapping capacity, we estimate the runway can be further extended to Dec 2020.
+Hard cap is USD200,000. If hard cap has not reached, the remaining Desmo will be allocated for future rounds.
 
+#### Participation amount
 
+We have set a maximum participation amount per participant at USD20,000 to keep the community as decentralized as possible. For people who are interested in participating with a larger amount, they may consider invest the excess amount in FL using SAFE at a valuation cap of USD1,650,000. Please be reminded that the business models of FL and FBC are different.
 
+On one hand, we want to set the entry barrier low enough to include as many interested validators as possible, as we need more validators to join us in fighting the social networks behemoths. On the other hand, the amount needs to be high enough to be qualified as stakes to secure the network. We have set the minimum participation amount at USD1,000. 
 
+#### Accepted currencies and exchange rate
+
+The denominated currency will be USD while we accept USD, HKD, BTC and ETH. The exchange rate between USD and HKD is USD1.0 to HKD7.8.
+For USD/BTC and USD/ETH, we will refer to the closing price of the respective cryptos on the previous day (UTC+8:00) of payment as shown on [coinmarketcap.com](https://coinmarketcap.com/currencies/bitcoin/historical-data/). For example, if we receive the payment in BTC at anytime on 5 Jan 2019 (UTC+8:00), we will refer to the closing price on 4 Jan 2019 (UTC+8:00) which was USD3,857.72/BTC as the exchange rate.
+
+#### Date of completion
+
+We will send invitation to selected people within 7 days from the date of this Whitepaper. We also welcome interested parties who have not received our invitation to contact us regarding their intention (please contact by [terence@forbole.com](mailto:terence@forbole.com). Certain KYC procedures may be required. We target to complete this private presale by 14 Feb 2019.
+
+#### Use of fund
+
+##### USD40,000 (20% of hard cap):
+**- Launch the testnet of FBC and create new modules**
+**- Launch the beta of FRN and acquire for early adopters**
+**- Complete the middleware linking FBC and FRN**
+**- Kickstart Cosmos & FBC community in Taiwan**
+**- Complete the accelerator program (Please refer to the section “Timeline for 2019”)**
+
+##### USD80,000 (40% of hard cap):
+**- Upgrade FRN with gamification design**
+**- Kickstart Cosmos & FBC community in China’s Greater Bay Area - Enhance marketing of FRN**
+
+##### USD140,000 (70% of hard cap):
+**- Revamp marketing materials**
+**- Setup the necessary legal structure**
+
+##### USD200,000 (100% of hard cap):
+**- Pre-marketing for a larger scale token pre-sale**
+
+### Future rounds (70%)
+
+While the plan for future rounds has not yet decided, below will be a good roadmap:
+
+**15% (Private) — Q3/Q4, 2019**
+**15% (Private) — Q1/Q2, 2020**
+**40% (Private or Public) — Q3/Q4, 2020**
+
+By the end of 2020, we predict that the technology for decentralized exchanges will be quite mature and we no longer need to ask questions like “when exchange?”. Public offering will come with listing of tokens, and both will happen at the same time. 
+
+## Related project: Big Dipper
+
+Launched in Sep 2018, Big Dipper is an open-source real-time block explorer for Cosmos ecosystem blockchains. It has won the 2nd place of Alerting & Monitoring Category of [HackAtom3](https://blog.cosmos.network/hackatom3-winners-announced-95933b6e23b5) of Cosmos.
+
+As at the time of this Whitepaper, Big Dipper is [broadcasting Game of Stakes](https://twitter.com/forbole/status/1080865316589076480).
+
+Website: https://bigdipper.forbole.com/
+GitHub repo:
+- https://github.com/forbole/big_dipper
+- https://github.com/forbole/gaia_bot_monitor
+
+## Timeline for 2019
+
+### Jan/Feb: 
+**- launch the beta and build an evangelists community of FRN**
+**- Finish and review Game of Stake**
+**- launch the testnet and validators community of FBC**
+**- Complete the first private presale of Desmo**
+
+### Mar/Apr/May: 
+**- Accelerate at AppWorks in Taipei, Taiwan**
+**- Upgrade FRN with gamification design**
+**- Upgrade FBC with reputation module**
+**- Enrich our contents in Chinese language**
+**- Initiate Cosmos and FBC community in Hong Kong and Taiwan**
+
+### Jun/Jul/Aug:
+**- Demo Day on 5 Jun 2019**
+**- Linking FBC and FRN**
+**- Upgrade Big Dipper as an independent brand**
+**- Initiate Cosmos and FBC community in China’s Greater Bay Area**
+**- Close the first institutional round (equity/token)**
+
+### Aug/Oct/Nov/Dec:
+**- Explore our next locations for growth (Singapore/Shanghai)**
+**- Consolidate a distributed team**
+**- Complete a large scale of private and public sale of Desmo**
+
+## About the name of “Forbole”
+
+“Forbole” is a portmanteau of English “for” and Chinese “Bo Le” (伯樂).
+
+“Bo Le” was the legendary inventor of equine physiognomy, which is a technique to “judge a horse's qualities from appearance”. In Modern Standard Chinese, “Bo Le” figuratively means "good judge of (especially hidden) talent”. “Bo Le” is used to refer to someone who can recognize special talent in people or offers opportunities for people to showcase their skills.
+
+We are so lucky that we have met a lot of “Bo Le” in our life who have unleashed our potential and helped us to grow. We believe there are a lot of hidden talents around all of us. You can become their Bo Le by giving them endorsements, recommendations or referrals which help them to grow and contribute more to our society. 
+
+## Relationship with CWG
+
+Creativeworks Group Limited (“CWG”) is a digital solution provider cofounded by Kwun Yeung in 2005 in Hong Kong. As of the date of this Whitepaper, CWG is wholly-owned by Kwun Yeung and Terence Lam.
+
+In early stage, this is important to keep things simple. To enhance the efficiency and minimize the administrative costs of FL, FL has contracted with CWG to outsource all its operations (include staffing, productions and administrations) to CWG. We expect this model will be kept until Sep 2019 when FL is expected to close the first round of funding from institutional investors.
+
+For more about CWG, please visit its [website](https://creativeworks.com.hk).
+
+## Team and contact
+
+We may need to remove charismatic leaders in order to achieve true decentralization. But as the fire starters of this revolution, we need to let people know who we are.
+
+[Kwun Yeung](https://www.linkedin.com/in/kwunyeung/), the Conductor
+
+Kwun focuses on the technology, design and the developers community. He is also the Adjunct Lecturer in The University of Hong Kong. Kwun was graduated from Hong Kong University of Science and Technology with a BEng in Computer Engineering, and The University of Edinburgh with a MSc in Design & Digital Media. He loves food, music and Batman. 
+
+For technical development, here is his email: kwun@forbole.com.
+
+[Terence Lam](https://linkedin.com/in/terencesflam), the Evangelist
+
+Terence focuses on business networking, finance & investment and marketing & operation. He started his career at a commercial banker, then joined force with Kwun to run CWG together. Terence was graduated from City University of Hong Kong with a BBA in Finance and a PGC in Professional Accounting, and EU Business School with a MBA. He loves history, meditate, bodybuilding, listen to heavy metal music. 
+
+For investment, business and partnership, here is his email: terence@forbole.com.
+
+Please join our community at [GitHub](https://github.com/forbole) and [Telegram](t.me/forbole)! 
