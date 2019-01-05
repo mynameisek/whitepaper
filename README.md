@@ -34,7 +34,7 @@ Terence Lam (terence@forbole.com)
      - [Current stakeholders (5%)](#current-stakeholders)
      - [fundraisers (80%)](#fundraisers)
         - [Many rounds vs one-off ICO](#many-rounds-vs-one-off-ico)
-  - [First private presale of Desmo: "The Round Table" (10%)](#first-private-presale-of-desmo)
+  - [First private presale of Desmo: "The Round Table" (10%)](#first-private-presale-of-desmo-the-round-table)
      - [Summary](#summary)
      - [Selling price and valuation](#selling-price-and-valuation)
      - [Soft cap and hard cap](#soft-cap-and-hard-cap)
@@ -237,9 +237,24 @@ We decided to arrange a few rounds of private presale of Desmo, phase by phase, 
 - Currently, we are not back by institutional investors. While this seems to be a weakness, we see opportunity. We have the free hands to make the project as decentralized, diversified and inclusive as possible.
 - We want to kickstart as simple as possible and then get back to work.
 
+### First private presale of Desmo: The Round Table (10%)
+**“… (The Round Table) has no head, implying that everyone who sits there has equal status…” [Wiki](https://en.wikipedia.org/wiki/Round_Table)**
 
+The first private presale of Desmo is also called the Round Table of Validators as we hope to be decentralized as early as possible. We cordially invite validators or investors (delegators) to join this round. Validators who join this round will play a decisive role in cofounding this revolution of social networks.
 
+#### Summary
 
+|**Items:**                  |**Details**                                  |
+| ---------------------------|---------------------------------------------|
+| Number of Desmos:          | 20,000,000 (10% of initial distribution)    |
+| Selling price:	           | USD0.01/Desmo (Valuation: USD2,000,000)     |
+| Soft cap:                  | USD40,000 (4,000,000 Desmos)                |
+| Hard cap:                  | USD200,000 (20,000,000 Desmos)              |
+| Max. participation amount: | USD20,000 (2,000,000 Desmos) per participant|
+| Min. participation amount: | USD1,000 (100,000 Desmos) per participant   |
+| Accepted currencies:       | USD (denominated), HKD, BTC, ETH            |
+| Exchange rate:             | as seen below                               |
+| Date of completion:        | 14 Feb 2019                                 |
 
 
 
