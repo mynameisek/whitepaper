@@ -198,8 +198,8 @@ To fund this revolution, a series of presale of Desmo will take place.
 
 The number of Desmos at genesis will be capped at 200,000,000. They will be distributed in different rounds of presale according to our development plan. The initial distribution of Desmo is as follows:
 
-|-------------------:|:------------------------------|
 | 10% (20,000,000):  | Investment arm of FL          |
+|-------------------:|:------------------------------|
 | 5% (10,000,000):   | Community                     |
 | 5% (10,000,000):   | Current stakeholders          |
 | 80% (160,000,000): | A number of rounds of presale |
