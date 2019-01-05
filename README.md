@@ -14,40 +14,40 @@ Terence Lam (terence@forbole.com)
 - [Cosmos and the internet of blockchains](#cosmos-and-the-internet-of-blockchains)
 - [ForboleChain](#forblechain)
   - [Desmo Token](#desmo-token)
-- [Forbole Referral Network: a decentralized professional fraternity]()
-  - [Phanero Token]()
-  - [Creation of Phaneros]()
-- [A new business model for social networks with dual-tokens]()
-  - [Redefining various stakeholders]()
-  - [Desmo: a new level of ownership]  
-  - [Phanero: connecting fiat and crypto economics]
-  - [Interaction between Desmo and Phanero]
-     - [Off-chain governance]
-     - [Converting Phanero to Desmo]
-- [Fundraisers] 
-  - [Initial Distribution of Desmos]
-     - [Investment arm of FL (10%)]
-     - [Community (5%)]
-        - [Future staff of Forbole Limited (1%)]
-        - [Consultants (1%)]
-        - [Community bounty (3%)]
-     - [Current stakeholders (5%)]
-     - [Crowdfundraisers (80%)]
-        - [Many rounds vs one-off ICO]
-  - [First private presale of Desmo: "The Round Table" (10%)]
-     - [Summary]
-     - [Selling price and valuation]
-     - [Soft cap and hard cap]
-     - [Participation amount]
-     - [Accepted currencies and exchange rate]
-     - [Date of completion]
-     - [Use of fund]
-  - [Future round (70%)]
-- [Related project: Big Dipper]
-- [Timeline for 2019]
-- [About the name of “Forbole”]
-- [Relationship with Creativeworks Group Limited]
-- [Team and contact]
+- [Forbole Referral Network](#forbole-referral-network)
+  - [Phanero Token](#phanero-token)
+  - [Creation of Phaneros](#creation-of-phaneros)
+- [A new business model for social networks with dual-tokens](#a-new-business-model-for-social-networks-with-dual-tokens)
+  - [Redefining various stakeholders](#redefining-various-stakeholders)
+  - [Desmo: a new level of ownership](#desmo-a-new-level-of-ownership)
+  - [Phanero: connecting fiat and crypto economics](#phanero-connecting-fiat-and-crypto-economic)
+  - [Interaction between Desmo and Phanero](#Interaction between Desmo and Phanero)
+     - [Off-chain governance](#off-chain-governance)
+     - [Converting Phanero to Desmo](#converting-phanero-to-desmo)
+- [Fundraisers](#fundraisers) 
+  - [Initial Distribution of Desmos](#initial-distribution-of-desmos)
+     - [Investment arm of FL (10%)](#investment-arm-of-fl)
+     - [Community (5%)](#community)
+        - [Future staff of FL (1%)](#future-staff-of-fl)
+        - [Consultants (1%)](#consultants)
+        - [Community bounty (3%)](#community-bounty)
+     - [Current stakeholders (5%)](#current-stakeholders)
+     - [fundraisers (80%)](#fundraisers)
+        - [Many rounds vs one-off ICO](#many-rounds-vs-one-off-ico)
+  - [First private presale of Desmo: "The Round Table" (10%)](#first-private-presale-of-desmo)
+     - [Summary](#summary)
+     - [Selling price and valuation](#selling-price-and-valuation)
+     - [Soft cap and hard cap](#soft-cap-and-hard-cap)
+     - [Participation amount](#participation-amount)
+     - [Accepted currencies](#accepted-currencies)
+     - [Date of completion](#date-of-completion)
+     - [Use of fund](#use-of-fund)
+  - [Future round (70%)](#future-round)
+- [Related project: Big Dipper](#related-project-big-dipper)
+- [Timeline for 2019](#timeline-for-2019)
+- [About the name of Forbole](#about-the-name-of-forbole)
+- [Relationship with CWG](#relationship-with-cwg)
+- [Team and contact](#team-and-contact)
 
 ## Disclaimer
 
