@@ -71,7 +71,7 @@ Project Forbole is an initiative to build an ecosystem of decentralized social n
 This Whitepaper aims at providing a deeper understanding of the scope and value proposition of Project Forbole to the audience who are interested in becoming an early mover in this initiative by participating the first private presale of the native token of ForboleChain, the Desmo Token.
 
 ## Project Overview
-(graph)
+(https://github.com/forbole/whitepaper/blob/master/Forbole%20-%20Project%20Structure.png)
 
 ## Forbole Limited
 
@@ -133,7 +133,7 @@ We believe in the philosophy of Cosmos to build an ecosystem of connected and in
 
 A truly decentralized ecosystem need to be diversified and inclusive enough. This is important to connect the visionary layman users and hardcore developers. We achieve this by the Desmo-Phanero dual-tokens business model. FBC and its token Desmo provide the infrastructure for other decentralized social networking apps. FRN and its token Phanero provide an interface for layman users to join blockchain and crypto space. This is the relationship between Desmo and Phanero that makes us special in this space.
 
-(Demonstration of dual-tokens model)
+(https://github.com/forbole/whitepaper/blob/master/Forbole%20-%20Desmo-Phanero%20tokens%20Model.png)
 
 ### Redefining various stakeholders 
 
@@ -205,7 +205,7 @@ The number of Desmos at genesis will be capped at 200,000,000. They will be dist
 | 5% (10,000,000):   | Current stakeholders          |
 | 80% (160,000,000): | A number of rounds of presale |
 
-(Forbole - Desmo Token Initial Distribution (20190104))
+(https://github.com/forbole/whitepaper/blob/master/Forbole%20-%20Desmo%20Initial%20Distribution%20.png)
 
 #### Investment arm of FL (10%)
 
