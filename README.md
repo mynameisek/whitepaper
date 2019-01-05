@@ -1,8 +1,7 @@
 # Project Forbole
 **a social networking ecosystem of the users, by the users, for the users**
 
-Kwun Yeung (kwun@forbole.com)
-
+Kwun Yeung (kwun@forbole.com)<br/>
 Terence Lam (terence@forbole.com)
 
 ## Table of Contents
@@ -12,7 +11,7 @@ Terence Lam (terence@forbole.com)
 - [Project Overview](#project-overview)
 - [Forbole Limited](#forbole-limited)
 - [Cosmos and the internet of blockchains](#cosmos-and-the-internet-of-blockchains)
-- [ForboleChain](#forbolechain): a blockchain for decentralized social networks
+- [ForboleChain](#forbolechain):
   - [Desmo Token](#desmo-token)
 - [Forbole Referral Network](#forbole-referral-network)
   - [Phanero Token](#phanero-token)
@@ -142,21 +141,21 @@ We need a social networking ecosystem of the users, by the users, for the users.
 
 Currently, SNS providers think they are the emperors who own every data of their users (the peasants) and turn that into gold. At the same time, the users (the slaves) are bewitched to work (make engagements) for the SNS providers for free. By adopting the layman’s analogy we mentioned earlier, we want to redefine the stakeholders and entities of Forbole ecosystem as follow:
 
-**The internet of blockchains is the world of nations.**
+*The internet of blockchains is the world of nations.*
 
-**FBC is one of these nations. FRN is the first province in FBC.**
+*FBC is one of these nations. FRN is the first province in FBC.*
 
-**Members of Forbole ecosystem are the citizens with various right depending on the passports they are holding.**
+*Members of Forbole ecosystem are the citizens with various right depending on the passports they are holding*
 
-**Validators of FBC are the congressmen of FBC who participate the governance of FBC and sometimes its provinces.**
+*Validators of FBC are the congressmen of FBC who participate the governance of FBC and sometimes its provinces.*
 
-**Desmo and Phanero are two types of passports that entitle the citizens different rights in Forbole ecosystem.**
+*Desmo and Phanero are two types of passports that entitle the citizens different rights in Forbole ecosystem.*
 
-**Desmo entitles its holder the partial ownership in FBC. Desmo will be used as the staking token to perform the operation and governance of FBC. Desmo holders will delegate their Desmo to their choices of validators.**
+*Desmo entitles its holder the partial ownership in FBC. Desmo will be used as the staking token to perform the operation and governance of FBC. Desmo holders will delegate their Desmo to their choices of validators.*
 
-**Phanero entitles its holder the partial ownership in FRN. A funding pool will be created from the income of FRN and used to provide liquidity for Phanero (see below).**
+*Phanero entitles its holder the partial ownership in FRN. A funding pool will be created from the income of FRN and used to provide liquidity for Phanero (see below).*
 
-**FL as a company, is the team to serve Forbole ecosystem at various capacities such as service provider, facilitator, tokens holder, validator and investor. **
+*FL as a company, is the team to serve Forbole ecosystem at various capacities such as service provider, facilitator, tokens holder, validator and investor. *
 
 We are eliminating the preconception that the SNS provider (and its shareholders) is the sole owner of the social network. This is no longer valid and satisfactory. As a social network, FRN is owned by the holders of Phanero. By earning Phanero through contribution-by-engagement, every user can become the owner of FRN.
 
@@ -199,24 +198,26 @@ To fund this revolution, a series of presale of Desmo will take place.
 
 The number of Desmos at genesis will be capped at 200,000,000. They will be distributed in different rounds of presale according to our development plan. The initial distribution of Desmo is as follows:
 
-- 10% (20,000,000): Investment arm of FL
-- 5% (10,000,000): Community
-- 5% (10,000,000): Current stakeholders
-- 80% (160,000,000): A number of rounds of presale
+|-------------------:|:------------------------------|
+| 10% (20,000,000):  | Investment arm of FL          |
+| 5% (10,000,000):   | Community                     |
+| 5% (10,000,000):   | Current stakeholders          |
+| 80% (160,000,000): | A number of rounds of presale |
 
 (Forbole - Desmo Token Initial Distribution (20190104))
 
 #### Investment arm of FL (10%)
 
 To achieve decentralization, we need to create a diversity of projects on FBC. We cannot (and should not) develop all the projects by ourselves. Instead of solely relying on in-house team, we will create an investment arm under FL to invest in Forbole ecosystem projects.
+
 As we have seen the limitations and administrative costs of a non-profit foundation, we propose to make this investment arm a for-profit subsidiary of FL and will evolve into its main business. This will replace the non-profit foundation we often see in ICO. We believe this would create a good incentive for FL to build Forbole ecosystem.
 
 #### Community (5%)
 
 The community we defined here is more than the normal scope we see in the market. Our community will be further divided into:
 
-- Future staff of Forbole Limited (1%): Our future staff should also be the active contributors to the community.
-- Consultants (1%): This means the future consultants, advisors and freelancers who provide their services in reward for Desmos as part or all of their remunerations.
+- Future staff of Forbole Limited (1%): Our future staff should also be the active contributors to the community.<br/>
+- Consultants (1%): This means the future consultants, advisors and freelancers who provide their services in reward for Desmos as part or all of their remunerations.<br/>
 - Community bounty (3%): This is a pool for both developers community and early adopters community of FRN. This motivates developers to assist in the technical development. It will also boost the virality of FRN.
 
 #### Current stakeholders (5%)
@@ -233,12 +234,12 @@ Although this 2.5% to FL and the 10% as described in section 3 are all allotted 
 
 We decided to arrange a few rounds of private presale of Desmo, phase by phase, according to our development plan. The final round maybe a public crowdsale, which is subject to further advices. Reasons can be summarized as follow:
 
-- Sense of ownership play a crucial role in motivating the community. We noticed that in quite some crypto projects, a lot of late but engaging community members have missed the token sales. For example, even though we are active in Cosmos community, we have missed its fundraiser. We hope that people will have the chance to join at different stages according to their understanding in the project, affordability and risk appetites.
-- Currently, we are not back by institutional investors. While this seems to be a weakness, we see opportunity. We have the free hands to make the project as decentralized, diversified and inclusive as possible.
+- Sense of ownership play a crucial role in motivating the community. We noticed that in quite some crypto projects, a lot of late but engaging community members have missed the token sales. For example, even though we are active in Cosmos community, we have missed its fundraiser. We hope that people will have the chance to join at different stages according to their understanding in the project, affordability and risk appetites.<br/>
+- Currently, we are not back by institutional investors. While this seems to be a weakness, we see opportunity. We have the free hands to make the project as decentralized, diversified and inclusive as possible.<br/>
 - We want to kickstart as simple as possible and then get back to work.
 
 ### First private presale of Desmo: The Round Table (10%)
-**“… (The Round Table) has no head, implying that everyone who sits there has equal status…” [Wiki](https://en.wikipedia.org/wiki/Round_Table)**
+**“… (The Round Table) has no head, implying that everyone who sits there has equal status…” ([Wiki])(https://en.wikipedia.org/wiki/Round_Table)**
 
 The first private presale of Desmo is also called the Round Table of Validators as we hope to be decentralized as early as possible. We cordially invite validators or investors (delegators) to join this round. Validators who join this round will play a decisive role in cofounding this revolution of social networks.
 
@@ -263,6 +264,7 @@ The selling price is USD0.01/Desmo, which implies a valuation of USD2,000,000 at
 #### Soft cap and hard cap
 
 Soft cap of USD40,000 is already reached as Kwun Yeung and Terence Lam, both the co-founders of FL, will each invest USD20,000 in this round. Together with the remaining cash, Project Forbole can keep going at least until the end of Sep 2019. If we take into account our bootstrapping capacity, we estimate the runway can be further extended to Dec 2020.
+
 Hard cap is USD200,000. If hard cap has not reached, the remaining Desmo will be allocated for future rounds.
 
 #### Participation amount
@@ -283,30 +285,30 @@ We will send invitation to selected people within 7 days from the date of this W
 #### Use of fund
 
 ##### USD40,000 (20% of hard cap):
-**- Launch the testnet of FBC and create new modules**
-**- Launch the beta of FRN and acquire for early adopters**
-**- Complete the middleware linking FBC and FRN**
-**- Kickstart Cosmos & FBC community in Taiwan**
-**- Complete the accelerator program (Please refer to the section “Timeline for 2019”)**
+- Launch the testnet of FBC and create new modules<br/>
+- Launch the beta of FRN and acquire for early adopters<br/>
+- Complete the middleware linking FBC and FRN<br/>
+- Kickstart Cosmos & FBC community in Taiwan<br/>
+- Complete the accelerator program (Please refer to the section “Timeline for 2019”)
 
 ##### USD80,000 (40% of hard cap):
-**- Upgrade FRN with gamification design**
-**- Kickstart Cosmos & FBC community in China’s Greater Bay Area - Enhance marketing of FRN**
+- Upgrade FRN with gamification design<br/>
+- Kickstart Cosmos & FBC community in China’s Greater Bay Area - Enhance marketing of FRN
 
 ##### USD140,000 (70% of hard cap):
-**- Revamp marketing materials**
-**- Setup the necessary legal structure**
+- Revamp marketing materials<br/>
+- Setup the necessary legal structure
 
 ##### USD200,000 (100% of hard cap):
-**- Pre-marketing for a larger scale token pre-sale**
+- Pre-marketing for a larger scale token pre-sale
 
 ### Future rounds (70%)
 
 While the plan for future rounds has not yet decided, below will be a good roadmap:
 
-**15% (Private) — Q3/Q4, 2019**
-**15% (Private) — Q1/Q2, 2020**
-**40% (Private or Public) — Q3/Q4, 2020**
+15% (Private) — Q3/Q4, 2019<br/>
+15% (Private) — Q1/Q2, 2020<br/>
+40% (Private or Public) — Q3/Q4, 2020
 
 By the end of 2020, we predict that the technology for decentralized exchanges will be quite mature and we no longer need to ask questions like “when exchange?”. Public offering will come with listing of tokens, and both will happen at the same time. 
 
@@ -324,35 +326,35 @@ GitHub repo:
 ## Timeline for 2019
 
 ### Jan/Feb: 
-**- launch the beta and build an evangelists community of FRN**
-**- Finish and review Game of Stake**
-**- launch the testnet and validators community of FBC**
-**- Complete the first private presale of Desmo**
+- launch the beta and build an evangelists community of FRN<br/>
+- Finish and review Game of Stake<br/>
+- launch the testnet and validators community of FBC<br/>
+- Complete the first private presale of Desmo<br/>
 
 ### Mar/Apr/May: 
-**- Accelerate at AppWorks in Taipei, Taiwan**
-**- Upgrade FRN with gamification design**
-**- Upgrade FBC with reputation module**
-**- Enrich our contents in Chinese language**
-**- Initiate Cosmos and FBC community in Hong Kong and Taiwan**
+- Accelerate at AppWorks in Taipei, Taiwan<br/>
+- Upgrade FRN with gamification design<br/>
+- Upgrade FBC with reputation module<br/>
+- Enrich our contents in Chinese language<br/>
+- Initiate Cosmos and FBC community in Hong Kong and Taiwan
 
 ### Jun/Jul/Aug:
-**- Demo Day on 5 Jun 2019**
-**- Linking FBC and FRN**
-**- Upgrade Big Dipper as an independent brand**
-**- Initiate Cosmos and FBC community in China’s Greater Bay Area**
-**- Close the first institutional round (equity/token)**
+- Demo Day on 5 Jun 2019<br/>
+- Linking FBC and FRN<br/>
+- Upgrade Big Dipper as an independent brand<br/>
+- Initiate Cosmos and FBC community in China’s Greater Bay Area<br/>
+- Close the first institutional round (equity/token)
 
 ### Aug/Oct/Nov/Dec:
-**- Explore our next locations for growth (Singapore/Shanghai)**
-**- Consolidate a distributed team**
-**- Complete a large scale of private and public sale of Desmo**
+- Explore our next locations for growth (Singapore/Shanghai)<br/>
+- Consolidate a distributed team<br/>
+- Complete a large scale of private and public sale of Desmo
 
 ## About the name of “Forbole”
 
 “Forbole” is a portmanteau of English “for” and Chinese “Bo Le” (伯樂).
 
-“Bo Le” was the legendary inventor of equine physiognomy, which is a technique to “judge a horse's qualities from appearance”. In Modern Standard Chinese, “Bo Le” figuratively means "good judge of (especially hidden) talent”. “Bo Le” is used to refer to someone who can recognize special talent in people or offers opportunities for people to showcase their skills.
+“[Bo Le](https://en.wikipedia.org/wiki/Bo_Le)” was the legendary inventor of equine physiognomy, which is a technique to “judge a horse's qualities from appearance”. In Modern Standard Chinese, “Bo Le” figuratively means "good judge of (especially hidden) talent”. “Bo Le” is used to refer to someone who can recognize special talent in people or offers opportunities for people to showcase their skills.
 
 We are so lucky that we have met a lot of “Bo Le” in our life who have unleashed our potential and helped us to grow. We believe there are a lot of hidden talents around all of us. You can become their Bo Le by giving them endorsements, recommendations or referrals which help them to grow and contribute more to our society. 
 
