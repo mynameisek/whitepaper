@@ -246,7 +246,7 @@ We decided to arrange a few rounds of private presale of Desmo, phase by phase, 
 - Currently, we are not back by institutional investors. While this seems to be a weakness, we see opportunity. We have the free hands to make the project as decentralized, diversified and inclusive as possible.<br/>
 - We want to kickstart as simple as possible and then get back to work.
 
-### First private presale of Desmo: "The Round Table" ### (10%)
+### First private presale of Desmo: "The Round Table"### (10%)
 > “… (The Round Table) has no head, implying that everyone who sits there has equal status…” ([Wiki](https://en.wikipedia.org/wiki/Round_Table))
 
 The first private presale of Desmo is also called the Round Table of Validators as we hope to be decentralized as early as possible. We cordially invite validators or investors (delegators) to join this round. Validators who join this round will play a decisive role in cofounding this revolution of social networks.
