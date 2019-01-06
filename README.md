@@ -62,7 +62,7 @@ This Whitepaper is intended for general informational purposes only and does not
 
 ## Introduction
 
-We have seen more and more problems were created by the corrupted social network service (“SNS”) providers such as Facebook and LinkedIn. These include the unresting scams and spams, the security loopholes, the privacy breaches and the oligopolistic behaviours of these SNS behemoths infringe users’ interests and harm the industry as a whole. People are demanding for a new kind of social networks.
+We have seen more and more problems were created by the corrupted social network service (“SNS”) providers such as Facebook and LinkedIn. These include the unresting scams and spams, the security loopholes, the privacy breaches and the oligopolistic behaviours of these SNS behemoths that infringe users’ interests and harm the industry as a whole. People are demanding for a new kind of social networks.
 
 The root of the above problems is the structural deficiency of the business model of these centralized SNS providers. We believe a social network of the users, by the users, for the users will be a solution to reshape the scene of social networking. 
 
