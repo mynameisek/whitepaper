@@ -77,7 +77,7 @@ This Whitepaper aims at providing a deeper understanding of the scope and value 
 
 Forbole Limited (“FL”) is a for-profit company limited incorporated in Hong Kong in Oct 2017. The main businesses of FL will be technology solution service and digital asset management. FL is building Big Dipper, ForboleChain and Forbole Referral Network.
 
-At the date of incorporation, FL was cofounded and owned by Kwun Yeung (52%) and Terence Lam (48% on document, while 15% will be an option pool for future employees). As at the date of this Whitepaper, a total angel investment amount of HKD630,000 (USD80,769) has been raised from 12 individuals using [Simple Agreement for Future Equity](https://en.wikipedia.org/wiki/Simple_agreement_for_future_equity_(SAFE)) (“SAFE”) with the latest market cap of USD1.5 million.
+At the date of incorporation, FL was cofounded and owned by Kwun Yeung (52%) and Terence Lam (48% on document, while 15% will be an option pool for future employees). As at the date of this Whitepaper, a total angel investment amount of HKD630,000 (USD80,769) has been raised from 12 individuals using [Simple Agreement for Future Equity](https://en.wikipedia.org/wiki/Simple_agreement_for_future_equity_(SAFE)) (“SAFE”) with the latest valuation cap of USD1.5 million.
 
 ## Cosmos and the internet of blockchains
 
@@ -105,11 +105,11 @@ We suggest an inflation rate of 5–20% of the total supply of Desmos per annum.
 ## Forbole Referral Network: 
 **a decentralized professional fraternity**
 
-FBC is a blockchain for decentralized social networking apps. We will build the first dApp on FBC which is called Forbole Referral Network (“FRN”). FRN is a decentralized business social network based on users engagements that are relating to reputations, such as endorsement of skills, recommendation of profiles and referral of business or career opportunities to other members. These engagements will be encouraged through gamification and [meta-moderation](https://en.wikipedia.org/wiki/Meta-moderation_system) design. 
+We will build the first dApp on FBC which is called Forbole Referral Network (“FRN”). FRN is a decentralized business social network based on users engagements that are relating to reputations, such as endorsement of skills, recommendation of profiles and referral of business or career opportunities to other members. These engagements will be encouraged through gamification and [meta-moderation](https://en.wikipedia.org/wiki/Meta-moderation_system) design. 
 
 The purpose of FRN is to transform the trust attributes generated from close business relationships into secured, traceable and portable digital assets such that the circle of influence of a user can grow efficiently and various circles can connect with each other base on the same belief: help the people you trust to succeed by referring them opportunities. You can also see FRN as a decentralized professional fraternity.
 
-The beta of FRN will be released in Jan-2019. Please click [here](https://www.youtube.com/watch?v=SPXpLknFB1w) for an animation explainer and [here](https://medium.com/forbole/unveiling-forbole-referral-network-bd78e6c87209) for the draft UX design. Furthermore, we are also planning to rebrand FRN to Phanero after it has acquired for some solid early tractions.
+The beta of FRN will be released in Jan-2019. Please click [here](https://www.youtube.com/watch?v=SPXpLknFB1w) for an animation explainer and [here](https://medium.com/forbole/unveiling-forbole-referral-network-bd78e6c87209) for the draft UX design. Furthermore, we are also considering to rebrand FRN to "Phanero Network" at a suitable time.
 
 ### Phanero Token
 
@@ -123,7 +123,7 @@ The literal meaning of phanerós is exactly what we want to achieve in FRN. We e
 
 ### Creation of Phaneros
 
-Every new Phanero will be created at a constant rate commencing from genesis except a number of Phanero will be created and distributed to users who have made the contribution-by-engagement before genesis on a one-off basis. In fact, the users’ activities before genesis will also give us valuable insights about the design of Phanero.
+Every new Phanero will be created at a constant rate commencing from genesis except a number of Phanero will be created and distributed on a one-off basis to users who have made the contribution-by-engagement before genesis. In fact, the users’ activities before genesis will also give us valuable insights in designing Phanero.
 
 Users have to earn the new Phanero purely by “sweat”: making contribution-by-engagement. There will not be any sales of newly created Phaneros. The final details and implementation of Phaneros will be decided by governance on FBC.
 
@@ -137,9 +137,9 @@ A truly decentralized ecosystem need to be diversified and inclusive enough. Thi
 
 ### Redefining various stakeholders 
 
-We need a social networking ecosystem of the users, by the users, for the users. This is a movement similar to the French Revolution or abolition of slavery. We are not the first project which claims to disrupt social networks by incentivising users. But this is just one piece of the puzzle. The first important step is to reinvent the mindset of stakeholders of social networks. 
+We are not the first project which claims to disrupt social networks by incentivising users. But this is just one piece of the puzzle. We need a social networking ecosystem of the users, by the users, for the users. This is a movement similar to the French Revolution or abolition of slavery. The first important step is to reinvent the mindset of stakeholders of social networks. 
 
-Currently, SNS providers think they are the emperors who own every data of their users (the peasants) and turn that into gold. At the same time, the users (the slaves) are bewitched to work (make engagements) for the SNS providers for free. By adopting the layman’s analogy we mentioned earlier, we want to redefine the stakeholders and entities of Forbole ecosystem as follow:
+Currently, SNS providers think they are the emperors who own every data of their users (the peasants) and turn that into gold. At the same time, the users (this time as the slaves) are bewitched to work (make engagements) for the SNS providers for free. By adopting the layman’s analogy we mentioned earlier, we want to redefine the stakeholders and entities of Forbole ecosystem as follow:
 
 > **The internet of blockchains** is the world of nations.
 
@@ -163,17 +163,17 @@ As such, there is no more saying like “we share profit with users”, as we ca
 
 ### Desmo: a new level of ownership
 
-Ownership of FBC means not just economic benefits, but also the right to participate the governance of FBC, which is the backbone for FRN and other Forbole ecosystem projects. While our target early participants of Desmo will be the validators or investors of Cosmos or its ecosystem projects, we also want to encourage FRN users to participate the governance of FBC, directly or indirectly. 
+Ownership of FBC means not just economic benefits, but also the right to participate the governance of FBC, which is the backbone for FRN and other Forbole ecosystem projects. While our target early participants of Desmo will be the validators or investors of Cosmos or its ecosystem projects, we also want to encourage FRN users to participate the governance of FBC directly or indirectly in the long run. 
 
-Governments need to educate, encourage and sometimes force their citizens to vote in elections. This is similar in our case. One of our challenges ahead is to educate and encourage users of FRN to participate the governance of FBC by earning, owning and delegating Desmo to their preferred validator candidates. We need to promote civic awareness of a decentralized ecosystem.
+Governments need to educate, encourage and sometimes force (by law) their citizens to vote in elections. Decentralization needs the same attitude. One of our challenges ahead is to educate and encourage users of FRN to participate the governance of FBC by earning, owning and delegating Desmo to their preferred validator candidates. We need to promote civic awareness of a decentralized ecosystem.
 
-On the other hand, this maybe dangerous if laymen users (often outnumber knowledgeable validators and investors) have significant influence on the governance. So we will also see if a system like bicameralism is feasible.
+On the other hand, this maybe dangerous if laymen users (often outnumber knowledgeable validators and investors) have overwhelming influence on the governance. So a system like bicameralism may also be discussed in the future.
 
 ### Phanero: connecting fiat and crypto economics
 
-The idea of FRN was derived from our own experiences in business networking. We know there is a need for recording business interactions securely and transparently such that the true connectors will shine and influence other people. By tokenizing the trusts we generate from the endorsements, recommendations and referrals into portable digital assets, we can extend our close relationships and enlarge our circle of influence, and hence improve the overall reliability of the ecosystem. 
+The idea of FRN was derived from our own experiences in business networking. We know there is a need for recording business interactions securely and transparently such that the true connectors will shine and influence other people. By tokenizing the trusts we generate from the endorsements, recommendations and referrals into portable digital assets, we can build reputations for each other, extend our close relationships and enlarge our circle of influence. The overall reliability both on-chain and off-chain of Forbole ecosystem will be enhanced and attract more users to do the same. A virtuous cycle is created. 
 
-The sources of income of FRN are membership fee and advertising income just like other social networks. To encourage wide adoption, we need to be inclusive enough for fiat currencies user. In early stage, we expect FRN will receive most of its income in fiat. After deducting the management fee for FL, the balance will become a reserve to provide liquidity for Phanero. Ones may regard this reserve as the “buyer of last resort” in the secondary market of Phanero. Through this arrangement, we convert the traditional centralized business model of SNS into a decentralized one where the business of FRN is owned by its true owners: Phanero holders.
+The sources of income of FRN are membership fee and advertising income just like other social networks. To encourage wide adoption, we need to be inclusive enough for fiat currencies users. In early stage, we expect FRN will receive most of its income in fiat. After deducting the management fee for FL, the balance will become a reserve to provide liquidity for Phanero. Ones may regard this reserve as the “buyer of last resort” in the secondary market of Phanero. Through this arrangement, we convert the traditional centralized business model of SNS into a decentralized one where the business of FRN is owned by its true owners: Phanero holders.
 
 ### Interaction between Desmo and Phanero
 
@@ -183,12 +183,13 @@ The interaction between Desmo and Phanero will be quite interesting from various
 
 FRN can play a crucial role in off-chain governance of FBC and other Cosmos ecosystem projects as the users who have made endorsements, recommendations and referrals to other users are in fact staking their own reputations. 
 
-As a member of Cosmos ecosystem, we have already seen the importance of off-chain governance during Game of Stakes. FRN can be used as a tool for doing KYC whether you want to join force with cartels, anti-cartels or anti-anti-cartels. This also applies to business world when ones want to partner with or recruit for other people. You may not know those people who made those endorsements, recommendations and referrals to your potential partners but you know that those engagements are made by those who have staked their reputations and being rated through meta-moderation. 
+As a member of Cosmos ecosystem, we have already seen the importance of off-chain governance during Game of Stakes. FRN can be used as a tool for doing KYC whether you want to join force with cartels, anti-cartels or anti-anti-cartels. This also applies to business world when ones want to partner with or recruit for other people. You may not know those people who made those endorsements, recommendations and referrals to your potential partners but you know that these engagements are made by those who have staked their reputations and are rated through meta-moderation. 
 
 #### Converting Phanero to Desmo
 
 To encourage FRN users to participate the governance, we need to provide privilege for Phanero holder to convert their Phanero to Desmo. One possible way is to set aside a portion of Desmo inflation exclusive for Phanero holder to exchange for Desmo at a preferential rate.
-One question is whether this preferential rate is for one-way conversion only or two-way exchange between the two tokens. If Desmo can also be converted into Phanero, the economy of Desmo will then be partially supported by the business model of FRN. But this will further blur the value propositions of Desmo and Phanero which are in fact complete different. Anyhow, this will be decided through governance on FBC.
+One question is whether this preferential rate is for one-way conversion only or two-way exchange between the two tokens. If Desmo can also be converted into Phanero, the economy of Desmo will then be partially supported by the business model of FRN. But this will further blur the value propositions of Desmo and Phanero which are in fact completely different. Anyhow, this will be decided through governance on FBC.
+
 
 ## Fundraisers
 
@@ -217,7 +218,7 @@ As we have seen the limitations and administrative costs of a non-profit foundat
 
 The community we defined here is more than the normal scope we see in the market. Our community will be further divided into:
 
-- Future staff of Forbole Limited (1%): Our future staff should also be the active contributors to the community.<br/>
+- Future staff of FL (1%): Future staff should also be the active contributors to the community.<br/>
 - Consultants (1%): This means the future consultants, advisors and freelancers who provide their services in reward for Desmos as part or all of their remunerations.<br/>
 - Community bounty (3%): This is a pool for both developers community and early adopters community of FRN. This motivates developers to assist in the technical development. It will also boost the virality of FRN.
 
@@ -235,7 +236,7 @@ Although this 2.5% to FL and the 10% as described in section 3 are all allotted 
 
 We decided to arrange a few rounds of private presale of Desmo, phase by phase, according to our development plan. The final round maybe a public crowdsale, which is subject to further advices. Reasons can be summarized as follow:
 
-- Sense of ownership play a crucial role in motivating the community. We noticed that in quite some crypto projects, a lot of late but engaging community members have missed the token sales. For example, even though we are active in Cosmos community, we have missed its fundraiser. We hope that people will have the chance to join at different stages according to their understanding in the project, affordability and risk appetites.<br/>
+- Sense of ownership play a crucial role in motivating the community. We noticed that in quite some crypto projects, a lot of late but engaging community members have missed the token sales. For example, even though we are active in Cosmos community, we have missed its fundraiser. We hope that people will have the chance to join at different stages according to their understanding in the project and risk appetites.<br/>
 - Currently, we are not back by institutional investors. While this seems to be a weakness, we see opportunity. We have the free hands to make the project as decentralized, diversified and inclusive as possible.<br/>
 - We want to kickstart as simple as possible and then get back to work.
 
@@ -260,7 +261,7 @@ The first private presale of Desmo is also called the Round Table of Validators 
 
 #### Selling price and valuation
 
-The selling price is USD0.01/Desmo, which implies a valuation of USD2,000,000 at genesis assuming the initial distribution of 200,000,000. This valuation is approximately one-fifth of the market capitalization of some 200th ranked cryptos (as on [coinmarketcap](http://coinmarketcap.com)) at their recent trough levels in Dec 2018. We believe this is a very conservative valuation given the works,  experiences and reputation we have developed so far.
+The selling price is USD0.01/Desmo, which implies a valuation of USD2,000,000 at genesis assuming the initial distribution of 200,000,000. This valuation is approximately one-fifth of the market capitalization of some 200th ranked cryptos (as on [coinmarketcap](http://coinmarketcap.com)) at their recent trough levels in Dec 2018 (at the time when BTC dropped to USD3,200). We believe this is a very conservative valuation given the works,  experiences and reputation we have developed so far.
 
 #### Soft cap and hard cap
 
@@ -281,7 +282,7 @@ For USD/BTC and USD/ETH, we will refer to the closing price of the respective cr
 
 #### Date of completion
 
-We will send invitation to selected people within 7 days from the date of this Whitepaper. We also welcome interested parties who have not received our invitation to contact us regarding their intention (please contact by [terence@forbole.com](mailto:terence@forbole.com). Certain KYC procedures may be required. We target to complete this private presale by 14 Feb 2019.
+We will send individual invitation to selected people within 30 days from the date of this Whitepaper. We also welcome interested parties who have not received our invitation to contact us regarding their intention (please contact by [terence@forbole.com](mailto:terence@forbole.com). Certain KYC procedures may be required. We target to complete this private presale by 14 Feb 2019.
 
 #### Use of fund
 
@@ -311,7 +312,7 @@ While the plan for future rounds has not yet decided, below will be a good roadm
 15% (Private) — Q1/Q2, 2020<br/>
 40% (Private or Public) — Q3/Q4, 2020
 
-By the end of 2020, we predict that the technology for decentralized exchanges will be quite mature and we no longer need to ask questions like “when exchange?”. Public offering will come with listing of tokens, and both will happen at the same time. 
+By the end of 2020, we predict that the technology for decentralized exchanges will be quite mature and we will no longer need to ask questions like “when exchange?”. Public offering will come with the public listing of tokens, and both will happen at the same time. 
 
 ## Related project: Big Dipper
 
@@ -354,7 +355,7 @@ GitHub repo:
 
 ## About the name of “Forbole”
 
-“Forbole” is a portmanteau of English “for” and Chinese “Bo Le” (伯樂).
+“Forbole” is a portmanteau word composed of English “for” and Chinese “Bo Le” (伯樂).
 
 “[Bo Le](https://en.wikipedia.org/wiki/Bo_Le)” was the legendary inventor of equine physiognomy, which is a technique to “judge a horse's qualities from appearance”. In Modern Standard Chinese, “Bo Le” figuratively means "good judge of (especially hidden) talent”. “Bo Le” is used to refer to someone who can recognize special talent in people or offers opportunities for people to showcase their skills.
 
@@ -364,7 +365,7 @@ We are so lucky that we have met a lot of “Bo Le” in our life who have unlea
 
 Creativeworks Group Limited (“CWG”) is a digital solution provider cofounded by Kwun Yeung in 2005 in Hong Kong. As of the date of this Whitepaper, CWG is wholly-owned by Kwun Yeung and Terence Lam.
 
-In early stage, this is important to keep things simple. To enhance the efficiency and minimize the administrative costs of FL, FL has contracted with CWG to outsource all its operations (include staffing, productions and administrations) to CWG. We expect this model will be kept until Sep 2019 when FL is expected to close the first round of funding from institutional investors.
+In early stage, this is important to keep things simple. To enhance the efficiency and minimize the administrative costs, FL has contracted with CWG to outsource all its operations (include staffing, productions and administrations) to CWG. We expect to operate in this way until Sep 2019 when FL is expected to close the first round of funding from institutional investors.
 
 For more about CWG, please visit its [website](https://creativeworks.com.hk).
 
