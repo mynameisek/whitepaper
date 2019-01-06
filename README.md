@@ -26,7 +26,7 @@ Terence Lam (terence@forbole.com)
      - [Price stability](#price-stability)
 - [Fundraisers](#fundraisers) 
   - [Initial Distribution of Desmos](#initial-distribution-of-desmos)
-     - [Investment arm of FL (10%)](#investment-arm-of-fl)
+     - [Investment arm of FL (10%)](#investment-arm-of-fl-(10%))
      - [Community (5%)](#community)
         - [Future staff of FL (1%)](#future-staff-of-fl)
         - [Consultants (1%)](#consultants)
@@ -214,7 +214,7 @@ The number of Desmos at genesis will be capped at 200,000,000. They will be dist
 
 ![Initial Distribution of Desmos](https://github.com/forbole/whitepaper/blob/master/Forbole%20-%20Desmo%20Initial%20Distribution%20.png)
 
-#### Investment arm of FL (10%)
+#### Investment arm of FL \(10\%\)
 
 To achieve decentralization, we need to create a diversity of projects on FBC. We cannot (and should not) develop all the projects by ourselves. Instead of solely relying on in-house team, we will create an investment arm under FL to invest in Forbole ecosystem projects.
 
@@ -236,7 +236,7 @@ Instead of allotting all this 5% to FL as its incentive, we will allot half of t
 
 Although this 2.5% to FL and the 10% as described in section 3 are all allotted to FL, they will be managed separately. We hope the 10% as investment arm will be managed like a crypto VC.
 
-#### Rounds of fundraisers - 80%
+#### Rounds of fundraisers (80%)
 
 ##### Many rounds vs one-off ICO
 
@@ -246,7 +246,7 @@ We decided to arrange a few rounds of private presale of Desmo, phase by phase, 
 - Currently, we are not back by institutional investors. While this seems to be a weakness, we see opportunity. We have the free hands to make the project as decentralized, diversified and inclusive as possible.<br/>
 - We want to kickstart as simple as possible and then get back to work.
 
-### First private presale of Desmo: "The Round Table"
+### First private presale of Desmo: "The Round Table" (10%)
 > “… (The Round Table) has no head, implying that everyone who sits there has equal status…” ([Wiki](https://en.wikipedia.org/wiki/Round_Table))
 
 The first private presale of Desmo is also called the Round Table of Validators as we hope to be decentralized as early as possible. We cordially invite validators or investors (delegators) to join this round. Validators who join this round will play a decisive role in cofounding this revolution of social networks.
