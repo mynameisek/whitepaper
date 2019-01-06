@@ -20,9 +20,10 @@ Terence Lam (terence@forbole.com)
   - [Redefining various stakeholders](#redefining-various-stakeholders)
   - [Desmo: a new level of ownership](#desmo-a-new-level-of-ownership)
   - [Phanero: connecting fiat and crypto economics](#phanero-connecting-fiat-and-crypto-economic)
-  - [Interaction between Desmo and Phanero](#interaction-between-desmo-an-phanero)
+  - [A tale of two tokens](#a-tale-of-two-tokens)
      - [Off-chain governance](#off-chain-governance)
-     - [Converting Phanero to Desmo](#converting-phanero-to-desmo)
+     - [Conversion between Desmo and Phanero](#conversion-between-desmo-and-phanero)
+     - [Price stability](#price-stability)
 - [Fundraisers](#fundraisers) 
   - [Initial Distribution of Desmos](#initial-distribution-of-desmos)
      - [Investment arm of FL (10%)](#investment-arm-of-fl)
@@ -175,7 +176,7 @@ The idea of FRN was derived from our own experiences in business networking. We 
 
 The sources of income of FRN are membership fee and advertising income just like other social networks. To encourage wide adoption, we need to be inclusive enough for fiat currencies users. In early stage, we expect FRN will receive most of its income in fiat. After deducting the management fee for FL, the balance will become a reserve to provide liquidity for Phanero. Ones may regard this reserve as the “buyer of last resort” in the secondary market of Phanero. Through this arrangement, we convert the traditional centralized business model of SNS into a decentralized one where the business of FRN is owned by its true owners: Phanero holders.
 
-### Interaction between Desmo and Phanero
+### A tale of two tokens
 
 The interaction between Desmo and Phanero will be quite interesting from various perspectives.
 
@@ -185,11 +186,16 @@ FRN can play a crucial role in off-chain governance of FBC and other Cosmos ecos
 
 As a member of Cosmos ecosystem, we have already seen the importance of off-chain governance during Game of Stakes. FRN can be used as a tool for doing KYC whether you want to join force with cartels, anti-cartels or anti-anti-cartels. This also applies to business world when ones want to partner with or recruit for other people. You may not know those people who made those endorsements, recommendations and referrals to your potential partners but you know that these engagements are made by those who have staked their reputations and are rated through meta-moderation. 
 
-#### Converting Phanero to Desmo
+#### Conversion between Desmo and Phanero
 
 To encourage FRN users to participate the governance, we need to provide privilege for Phanero holder to convert their Phanero to Desmo. One possible way is to set aside a portion of Desmo inflation exclusive for Phanero holder to exchange for Desmo at a preferential rate.
 One question is whether this preferential rate is for one-way conversion only or two-way exchange between the two tokens. If Desmo can also be converted into Phanero, the economy of Desmo will then be partially supported by the business model of FRN. But this will further blur the value propositions of Desmo and Phanero which are in fact completely different. Anyhow, this will be decided through governance on FBC.
 
+#### Price stability
+
+Phanero will be back by the the reserve fund while the later will be created from the income of FRN. Due to the transparency of the size of reserve fund and its role as a liquidity provider, the market will derive the reasonable value (or "fundamental value" in financial literature) for Phanero. In other words, this may be something like a transformed gold standard: the price of Phanero will be derived by the size of the reserve fund. If the market price of Phanero is higher or lower than the theoretical fundamental value, the reserve fund (and other market players who see the arbitrage opportunity) will sell or buy the Phanero. This may provide some degree of price predictability and stability to Phanero.
+
+Together with the exclusive conversion between Desmo and Phanero, will this provide a more reliable framework for delegators and validators to decide whether they should delegate and/or stake their Desmo, or speculate in the volatility of the token? Will the reserve fund policy for Phanero and the inflation of Desmo counter-balance the volatility to ensure the stability and security of Forbole ecosystem? These are all we want to find out.
 
 ## Fundraisers
 
@@ -289,7 +295,7 @@ We will send individual invitation to selected people within 30 days from the da
 ##### USD40,000 (20% of hard cap):
 - Launch the testnet of FBC and create new modules<br/>
 - Launch the beta of FRN and acquire for early adopters<br/>
-- Complete the middleware linking FBC and FRN<br/>
+- Link up FBC and FRN<br/>
 - Kickstart Cosmos & FBC community in Taiwan<br/>
 - Complete the accelerator program (Please refer to the section “Timeline for 2019”)
 
