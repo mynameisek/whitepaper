@@ -32,7 +32,7 @@ Terence Lam (terence@forbole.com)
         - [Consultants (1%)](#consultants)
         - [Community bounty (3%)](#community-bounty)
      - [Current stakeholders (5%)](#current-stakeholders-5)
-     - [Rounds of fundraisers (80%)](#rounds-of-fundraisers-80)
+     - [Fundraisers (80%)](#fundraisers-80)
         - [Many rounds vs one-off ICO](#many-rounds-vs-one-off-ico)
   - [First private presale of Desmo: "The Round Table" (10%)](#first-private-presale-of-desmo-the-round-table-10)
      - [Summary](#summary)
@@ -42,7 +42,7 @@ Terence Lam (terence@forbole.com)
      - [Accepted currencies](#accepted-currencies)
      - [Date of completion](#date-of-completion)
      - [Use of fund](#use-of-fund)
-  - [Future round (70%)](#future-round-70)
+  - [Future rounds (70%)](#future-rounds-70)
 - [Related project: Big Dipper](#related-project-big-dipper)
 - [Timeline for 2019](#timeline-for-2019)
 - [About the name of Forbole](#about-the-name-of-forbole)
@@ -236,7 +236,7 @@ Instead of allotting all this 5% to FL as its incentive, we will allot half of t
 
 Although this 2.5% to FL and the 10% as described in section 3 are all allotted to FL, they will be managed separately. We hope the 10% as investment arm will be managed like a crypto VC.
 
-#### Rounds of fundraisers (80%)
+#### Fundraisers (80%)
 
 ##### Many rounds vs one-off ICO
 
