@@ -1,4 +1,4 @@
-# Project Forbole
+# Project Forbole [ˈfɔːbəl]
 **a social networking ecosystem of the users, by the users, for the users**
 
 Kwun Yeung (kwun@forbole.com)<br/>
