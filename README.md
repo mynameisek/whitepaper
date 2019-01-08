@@ -80,6 +80,8 @@ Forbole Limited (“FL”) is a for-profit company limited incorporated in Hong 
 
 At the date of incorporation, FL was cofounded and owned by Kwun Yeung (52%) and Terence Lam (48% on document, while 15% will be an option pool for future employees). As at the date of this Whitepaper, a total angel investment amount of HKD630,000 (USD80,769) has been raised from 12 individuals using [Simple Agreement for Future Equity](https://en.wikipedia.org/wiki/Simple_agreement_for_future_equity_(SAFE)) (“SAFE”) with the latest valuation cap of USD1.5 million.
 
+While this is obvious, we need to emphasize the fact that FL and FBC have different business models and even different forms of existence. FL is a company limited for service income. This may come from providing technology solutions. This may also come from staking (we are currently on Cosmos Hub and Polkadot testnet, and we may explore other opportunities such as IRISnet, Tezos, Ethereum 2.0). FL will also form an investment arm to invest in Forbole ecosystem projects after FBC is officially launched. FBC is a blockchain with a native token Desmo (as described below). People may be interested in supporting FL and/or FBC according to their own appetites. 
+
 ## Cosmos and the internet of blockchains
 
 Project Forbole is a Cosmos/Tendermint ecosystem project. Please refer to the [whitepaper of Cosmos](https://cosmos.network/resources/whitepaper) to understand the concepts such as validators and consensus, which also apply in Project Forbole.
