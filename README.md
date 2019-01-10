@@ -43,6 +43,7 @@ Terence Lam (terence@forbole.com)
      - [Date of completion](#date-of-completion)
      - [Use of fund](#use-of-fund)
   - [Future rounds (70%)](#future-rounds-70)
+- [Comparision of FL and FBC] (#comparision-of-fl-and-fbc)
 - [Related project: Big Dipper](#related-project-big-dipper)
 - [Timeline for 2019](#timeline-for-2019)
 - [About the name of Forbole](#about-the-name-of-forbole)
@@ -79,8 +80,6 @@ This Whitepaper aims at providing a deeper understanding of the scope and value 
 Forbole Limited (“FL”) is a for-profit company limited incorporated in Hong Kong in Oct 2017. The main businesses of FL will be technology solution service and digital asset management. FL is building Big Dipper, ForboleChain and Forbole Referral Network.
 
 At the date of incorporation, FL was cofounded and owned by Kwun Yeung (52%) and Terence Lam (48% on document, while 15% will be an option pool for future employees). As at the date of this Whitepaper, a total angel investment amount of HKD630,000 (USD80,769) has been raised from 12 individuals using [Simple Agreement for Future Equity](https://en.wikipedia.org/wiki/Simple_agreement_for_future_equity_(SAFE)) (“SAFE”) with the latest valuation cap of USD1.5 million.
-
-While this is obvious, we need to emphasize the fact that FL and FBC have different business models and even different forms of existence. FL is a company limited for service income. This may come from providing technology solutions. This may also come from staking (we are currently on Cosmos Hub and Polkadot testnet, and we may explore other opportunities such as IRISnet, Tezos, Ethereum 2.0). FL will also form an investment arm to invest in Forbole ecosystem projects after FBC is officially launched. FBC is a blockchain with a native token Desmo (as described below). People may be interested in supporting FL and/or FBC according to their own appetites. Please read this [article](https://medium.com/forbole/forbole-limited-is-not-forbolechain-9120dfda805c) to know more about the business model of FL.
 
 ## Cosmos and the internet of blockchains
 
@@ -321,6 +320,14 @@ While the plan for future rounds has not yet decided, below will be a good roadm
 40% (Private or Public) — Q3/Q4, 2020
 
 By the end of 2020, we predict that the technology for decentralized exchanges will be quite mature and we will no longer need to ask questions like “when exchange?”. Public offering will come with the public listing of tokens, and both will happen at the same time. 
+
+## Comparision of FL and FBC
+
+While this is obvious, we need to emphasize the fact that FL and FBC have different business models and even different forms of existence. FL is a company limited for service income. This may come from providing technology solutions. This may also come from staking (we are currently on Cosmos Hub and Polkadot testnet, and we may explore other opportunities such as IRISnet, Tezos, Ethereum 2.0). FL will also form an investment arm to invest in Forbole ecosystem projects after FBC is officially launched. FBC is a public blockchain with a native token Desmo. Below is a quick summary of the differences of FL and FBC:
+
+![Comparison of FL and FBC](https://github.com/forbole/whitepaper/blob/master/Forbole%20-%20FL%20and%20FBC.png)
+
+People may be interested in supporting FL and/or FBC according to their own appetites. Please read this [article](https://medium.com/forbole/forbole-limited-is-not-forbolechain-9120dfda805c) to know more about the business model of FL.
 
 ## Related project: Big Dipper
 
