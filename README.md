@@ -136,7 +136,7 @@ We believe in the philosophy of Cosmos to build an ecosystem of connected and in
 
 A truly decentralized ecosystem need to be diversified and inclusive enough. This is important to connect the visionary layman users and hardcore developers. We achieve this by the Desmo-Phanero dual-tokens business model. FBC and its token Desmo provide the infrastructure for other decentralized social networking apps. FRN and its token Phanero provide an interface for layman users to join blockchain and crypto space. This is the relationship between Desmo and Phanero that makes us special in this space.
 
-![Desmo-Phanero Dual-Tokens Model](https://github.com/forbole/whitepaper/blob/master/Forbole%20-%20Desmo-Phanero%20tokens%20Model.png)
+![Desmo-Phanero Dual-Tokens Model](https://github.com/forbole/whitepaper/blob/master/Forbole%20Tokenomic.png)
 
 ### Redefining various stakeholders 
 
