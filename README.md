@@ -325,7 +325,7 @@ By the end of 2020, we predict that the technology for decentralized exchanges w
 
 While this is obvious, we need to emphasize the fact that FL and FBC have different business models and even different forms of existence. FL is a company limited for service income. This may come from providing technology solutions. This may also come from staking (we are currently on Cosmos Hub and Polkadot testnet, and we may explore other opportunities such as IRISnet, Tezos, Ethereum 2.0). FL will also form an investment arm to invest in Forbole ecosystem projects after FBC is officially launched. FBC is a public blockchain with a native token Desmo. Below is a quick summary of the differences of FL and FBC:
 
-![Comparison of FL and FBC](https://github.com/forbole/whitepaper/blob/master/Forbole%20-%20FL%20and%20FBC.png)
+![Comparison of FL and FBC](https://github.com/forbole/whitepaper/blob/master/Forbole%20-%20Forbole%20Limited%20and%20FBC.png)
 
 People may be interested in supporting FL and/or FBC according to their own appetites. Please read this [article](https://medium.com/forbole/forbole-limited-is-not-forbolechain-9120dfda805c) to know more about the business model of FL.
 
