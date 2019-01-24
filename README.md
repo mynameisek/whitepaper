@@ -43,7 +43,7 @@ Terence Lam (terence@forbole.com)
      - [Date of completion](#date-of-completion)
      - [Use of fund](#use-of-fund)
   - [Future rounds (70%)](#future-rounds-70)
-- [Comparision of FL and FBC](#comparision-of-fl-and-fbc)
+- [Comparison of FL and FBC](#comparison-of-fl-and-fbc)
 - [Related project: Big Dipper](#related-project-big-dipper)
 - [Timeline for 2019](#timeline-for-2019)
 - [About the name of Forbole](#about-the-name-of-forbole)
@@ -321,9 +321,9 @@ While the plan for future rounds has not yet decided, below will be a good roadm
 
 By the end of 2020, we predict that the technology for decentralized exchanges will be quite mature and we will no longer need to ask questions like “when exchange?”. Public offering will come with the public listing of tokens, and both will happen at the same time. 
 
-## Comparision of FL and FBC
+## Comparison of FL and FBC
 
-While this is obvious, we need to emphasize the fact that FL and FBC have different business models and even different forms of existence. FL is a company limited for service income. This may come from providing technology solutions. This may also come from staking (we are currently on Cosmos Hub and Polkadot testnet, and we may explore other opportunities such as IRISnet, Tezos, Ethereum 2.0). FL will also form an investment arm to invest in Forbole ecosystem projects after FBC is officially launched. FBC is a public blockchain with a native token Desmo. Below is a quick summary of the differences of FL and FBC:
+FL and FBC have different business models and even different forms of existence. FL is a company limited for service income. This may come from providing technology solutions. This may also come from staking (we are currently on Cosmos Hub and Polkadot testnet, and we may explore other opportunities such as IRISnet, Tezos, Ethereum 2.0). FL will also form an investment arm to invest in Forbole ecosystem projects after FBC is officially launched. FBC is a public blockchain with a native token Desmo. Below is a quick summary of the differences of FL and FBC:
 
 ![Comparison of FL and FBC](https://github.com/forbole/whitepaper/blob/master/Forbole%20-%20Forbole%20Limited%20and%20FBC.png)
 
