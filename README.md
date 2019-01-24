@@ -14,7 +14,7 @@ Terence Lam (terence@forbole.com)
 - [ForboleChain](#forbolechain):
   - [Desmo Token](#desmo-token)
 - [Forbole Referral Network](#forbole-referral-network)
-  - [Beta of FRN](beta-of-frn)
+  - [Beta of FRN](#beta-of-frn)
   - [Phanero Token](#phanero-token)
   - [Creation of Phaneros](#creation-of-phaneros)
 - [A new business model for social networks with dual-tokens](#a-new-business-model-for-social-networks-with-dual-tokens)
