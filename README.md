@@ -398,7 +398,7 @@ For technical development, here is his email: kwun@forbole.com.
 
 [Terence Lam](https://linkedin.com/in/terencesflam), the Evangelist
 
-Terence focuses on business networking, finance & investment and marketing & operation. He started his career at a commercial banker, then joined force with Kwun to run CWG together. Terence was graduated from City University of Hong Kong with a BBA in Finance and a PGC in Professional Accounting, and EU Business School with a MBA. He loves history, meditate, bodybuilding, listen to heavy metal music. 
+Terence focuses on business networking, finance & investment and marketing & operation. He started his career at a commercial banker, then joined force with Kwun to run CWG together. Terence was graduated from City University of Hong Kong with a BBA in Finance and a PGC in Professional Accounting, and EU Business School with a MBA. He loves history, meditate, bodybuilding, heavy metal music. 
 
 For investment, business and partnership, here is his email: terence@forbole.com.
 
