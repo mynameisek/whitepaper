@@ -111,7 +111,9 @@ We will build the first dApp on FBC which is called Forbole Referral Network (�
 
 The purpose of FRN is to transform the trust attributes generated from close business relationships into secured, traceable and portable digital assets such that the circle of influence of a user can grow efficiently and various circles can connect with each other base on the same belief: help the people you trust to succeed by referring them opportunities. You can also see FRN as a decentralized professional fraternity.
 
-The beta of FRN will be released in Jan-2019. Please click [here](https://www.youtube.com/watch?v=SPXpLknFB1w) for an animation explainer and [here](https://medium.com/forbole/unveiling-forbole-referral-network-bd78e6c87209) for the draft UX design. Furthermore, we are also considering to rebrand FRN to "Phanero Network" at a suitable time.
+The purpose of FRN is to transform the trust attributes generated from close business relationships into secured, traceable and portable digital assets such that the circle of influence of a user can grow efficiently and various circles can connect with each other base on the same belief: help your trusted connections to succeed by referring them opportunities. You can also see FRN as a decentralized professional fraternity. Please click [here](https://www.youtube.com/watch?v=SPXpLknFB1w) for an animation explainer of FRN.
+
+The beta of FRN has been released in Jan-2019. We are currently inviting friends from our social circle to join. 
 
 ### Phanero Token
 
