@@ -16,7 +16,7 @@ Terence Lam (terence@forbole.com)
 - [Forbole Referral Network](#forbole-referral-network)
   - [Contribution Scores](#contribution-scores)
   - [Phanero Token](#phanero-token)
-  - [Creation of Phaneros](#creation-of-phaneros)
+  - [Creation and minting of Phaneros](#creation-and-minting-of-phaneros)
   - [Beta of FRN](#beta-of-frn)
 - [A new business model for social networks with dual-tokens](#a-new-business-model-for-social-networks-with-dual-tokens)
   - [Redefining various stakeholders](#redefining-various-stakeholders)
@@ -115,7 +115,18 @@ The purpose of FRN is to transform the trust attributes generated from close bus
 
 ### Contribution Scores
 
+The success of a social network is built on the quality and quantity of the engagements made by its users. In other words, the users contribute to the growth of a social network by making engagements. We use the term Contribution Scores (“Scores”) to reflect the “contribution-by-engagement” of a user. 
+Scores is a snapshot number which reflects the accumulated contribution-by-engagement of a user. In the latest beta version of FRN, Scores is calculated as follows:
 
+|**Engagements**                           |**Scores**|
+|-----------------------------------------:|:---------|
+| Converted a new user:                    |     10   |
+| Made a new connection:                   |      1   |
+| Given a recommendation:                  |      5   |
+| Given a referral:                        |      2   |
+| Counterpart has accepted being referred: |      3   |
+
+The calculation of Scores is still subject to further improvements by community’s comments. 
 
 ### Phanero Token
 
@@ -127,11 +138,13 @@ Phanero [fəˈnærəʊ] is the token to support the crypto economics of FRN. The
 
 The literal meaning of phanerós is exactly what we want to achieve in FRN. We encourage users to help each other to build reputations through serious and engaging interactions such as endorsements, recommendations and referrals. Users are incentivised to become more visible.
 
-### Creation of Phaneros
+### Creation and minting of Phaneros
 
-Every new Phanero will be created at a constant rate commencing from genesis except a number of Phanero will be created and distributed on a one-off basis to users who have made the contribution-by-engagement before genesis. In fact, the users’ activities before genesis will also give us valuable insights in designing Phanero.
+Every new Phanero will be created at a constant rate commencing from genesis. The newly created Phanero will be distributed to the users regularly according to the number of Scores the users have earned during a specific period of time (eg. 24 hours).
 
-Users have to earn the new Phanero purely by “sweat”: making contribution-by-engagement. There will not be any sales of newly created Phaneros. The final details and implementation of Phaneros will be decided by governance on FBC.
+The newly created Phanero will purely be earn by “sweat”: making contribution-by-engagement. There will not be any sales of newly created Phaneros. The final details and implementation of Phaneros will be decided by governance on FBC.
+
+There will be a one-off distribution of Phanero at genesis for the users who have earned Scores before genesis.
 
 ### Beta of FRN
 
