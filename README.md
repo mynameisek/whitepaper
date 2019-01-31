@@ -14,9 +14,10 @@ Terence Lam (terence@forbole.com)
 - [ForboleChain](#forbolechain):
   - [Desmo Token](#desmo-token)
 - [Forbole Referral Network](#forbole-referral-network)
-  - [Beta of FRN](#beta-of-frn)
+  - [Contribution Scores](#contribution-scores)
   - [Phanero Token](#phanero-token)
   - [Creation of Phaneros](#creation-of-phaneros)
+  - [Beta of FRN](#beta-of-frn)
 - [A new business model for social networks with dual-tokens](#a-new-business-model-for-social-networks-with-dual-tokens)
   - [Redefining various stakeholders](#redefining-various-stakeholders)
   - [Desmo: a new level of ownership](#desmo-a-new-level-of-ownership)
@@ -112,11 +113,9 @@ We will build the first dApp on FBC which is called Forbole Referral Network (�
 
 The purpose of FRN is to transform the trust attributes generated from close business relationships into secured, traceable and portable digital assets such that the circle of influence of a user can grow efficiently and various circles can connect with each other base on the same belief: help your trusted connections to succeed by referring them opportunities. You can also see FRN as a decentralized professional fraternity. Please click [here](https://www.youtube.com/watch?v=SPXpLknFB1w) for an animation explainer of FRN.
 
-### Beta of FRN
+### Contribution Scores
 
-The beta of FRN has been released in Jan-2019. We are currently inviting friends from our social circle to join. The quality of early adopters are crucial to our future success. We designed FRN beta in a way to facilitate users to invite their trusted friends to join by giving them recommendations (max. 350 characters) and endorsing their skills  (max. 3). 
 
-Giving a recommendation is not difficult, but it is also not as easy as just clicking a button to connect. The users need to spend energy and time to write recommendations, and this is what we want from them.
 
 ### Phanero Token
 
@@ -133,6 +132,12 @@ The literal meaning of phanerós is exactly what we want to achieve in FRN. We e
 Every new Phanero will be created at a constant rate commencing from genesis except a number of Phanero will be created and distributed on a one-off basis to users who have made the contribution-by-engagement before genesis. In fact, the users’ activities before genesis will also give us valuable insights in designing Phanero.
 
 Users have to earn the new Phanero purely by “sweat”: making contribution-by-engagement. There will not be any sales of newly created Phaneros. The final details and implementation of Phaneros will be decided by governance on FBC.
+
+### Beta of FRN
+
+The beta of FRN has been released in Jan-2019. We are currently inviting friends from our social circle to join. The quality of early adopters are crucial to our future success. We designed FRN beta in a way to facilitate users to invite their trusted friends to join by giving them recommendations (max. 350 characters) and endorsing their skills  (max. 3). 
+
+Giving a recommendation is not difficult, but it is also not as easy as just clicking a button to connect. The users need to spend energy and time to write recommendations, and this is what we want from them.
 
 ## A new business model for social networks with dual-tokens 
 
