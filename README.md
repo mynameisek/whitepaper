@@ -119,12 +119,12 @@ The success of a social network is built on the quality and quantity of the enga
 Scores is a snapshot number which reflects the accumulated contribution-by-engagement of a user. In the latest beta version of FRN, Scores is calculated as follows:
 
 |**Engagements**                           |**Scores**|
-|-----------------------------------------:|:---------|
-| Converted a new user:                    |     10   |
-| Made a new connection:                   |      1   |
-| Given a recommendation:                  |      5   |
-| Given a referral:                        |      2   |
-| Counterpart has accepted being referred: |      3   |
+|------------------------------------------|---------:|
+| Converted a new user:                    |        10|
+| Made a new connection:                   |         1|
+| Given a recommendation:                  |         5|
+| Given a referral:                        |         2|
+| Counterpart has accepted being referred: |         3|
 
 The calculation of Scores is still subject to further improvements by community’s comments. 
 
