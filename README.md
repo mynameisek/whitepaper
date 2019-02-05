@@ -42,7 +42,7 @@ Terence Lam (terence@forbole.com)
      - [Soft cap and hard cap](#soft-cap-and-hard-cap)
      - [Participation amount](#participation-amount)
      - [Accepted currencies](#accepted-currencies)
-     - [Date of completion](#date-of-completion)
+     - [Timetable of presale](#timetable-of-presale)
      - [Use of fund](#use-of-fund)
   - [Future rounds (70%)](#future-rounds-70)
 - [Comparison of FL and FBC](#comparison-of-fl-and-fbc)
@@ -285,9 +285,10 @@ The first private presale of Desmo is also called the Round Table of Validators 
 | Hard cap:                  | USD200,000 (20,000,000 Desmos)              |
 | Max. participation amount: | USD20,000 (2,000,000 Desmos) per participant|
 | Min. participation amount: | USD1,000 (100,000 Desmos) per participant   |
-| Accepted currencies:       | USD (denominated), HKD, BTC, ETH            |
+| Accepted currencies:       | USD, HKD, BTC, ETH                          |
 | Exchange rate:             | as seen below                               |
-| Date of completion:        | 14 Feb 2019                                 |
+| Expected starting date:    | to be announced                             |
+| Expected closing date:     | 31 Mar 2019                                 |
 
 #### Selling price and valuation
 
@@ -310,9 +311,9 @@ On one hand, we want to set the entry barrier low enough to include as many inte
 The denominated currency will be USD while we accept USD, HKD, BTC and ETH. The exchange rate between USD and HKD is USD1.0 to HKD7.8.
 For USD/BTC and USD/ETH, we will refer to the closing price of the respective cryptos on the previous day (UTC+8:00) of payment as shown on [coinmarketcap.com](https://coinmarketcap.com/currencies/bitcoin/historical-data/). For example, if we receive the payment in BTC at anytime on 5 Jan 2019 (UTC+8:00), we will refer to the closing price on 4 Jan 2019 (UTC+8:00) which was USD3,857.72/BTC as the exchange rate.
 
-#### Date of completion
+### Timetable of presale
 
-We will send individual invitation to selected people within 30 days from the date of this Whitepaper. We also welcome interested parties who have not received our invitation to contact us regarding their intention (please contact by [terence@forbole.com](mailto:terence@forbole.com). Certain KYC procedures may be required. We target to complete this private presale by 14 Feb 2019.
+Our target is to complete this very first round of presale by 31 Mar 2019. We will start to send invitation to individuals as soon as possible according to the progress of the launch of the testnet of FBC.
 
 #### Use of fund
 
@@ -370,9 +371,9 @@ GitHub repo:
 - launch the beta and build an evangelists community of FRN<br/>
 - Finish and review Game of Stake<br/>
 - launch the testnet and validators community of FBC<br/>
-- Complete the first private presale of Desmo<br/>
 
 ### Mar/Apr/May: 
+- Complete the first private presale of Desmo<br/>
 - Accelerate at AppWorks in Taipei, Taiwan<br/>
 - Upgrade FRN with gamification design<br/>
 - Upgrade FBC with reputation module<br/>
