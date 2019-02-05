@@ -410,7 +410,7 @@ For more about CWG, please visit its [website](https://creativeworks.com.hk).
 
 ## Team and contact
 
-We may need to remove charismatic leaders in order to achieve true decentralization. But as the fire starters of this revolution, we need to let people know who we are.
+We may need to avoid the creation of leaders in order to achieve true decentralization. But as the fire starters of this revolution, we need to let people know who we are.
 
 [Kwun Yeung](https://www.linkedin.com/in/kwunyeung/), the Conductor
 
