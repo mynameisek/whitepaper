@@ -92,7 +92,7 @@ For the sake of wide adoption of blockchain, there is a need for our audiences t
 ## ForboleChain
 **a blockchain for decentralized social networks**
 
-ForboleChain (“FBC”) is the blockchain we are developing. Powered by Cosmos Hub and Tendermint, FBC is a high-performant and byzantine fault tolerant blockchain based on proof-of-stake consensus.
+ForboleChain (“FBC”) is the blockchain we are developing. Powered by Cosmos SDK and Tendermint, FBC is a high-performant and byzantine fault tolerant blockchain based on proof-of-stake consensus.
 
 In Cosmos terminology, a [hub](https://cosmos.network/resources/whitepaper#the-hub) is a blockchain that hosts a multi-asset distributed ledger, where tokens can be held by individual users or by [zones](https://cosmos.network/resources/whitepaper#the-zones) themselves. The hub is responsible for preserving the global invariance of the total amount of each token across the zones.
 
