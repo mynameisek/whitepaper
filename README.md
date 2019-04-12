@@ -238,8 +238,6 @@ The number of Desmos at genesis will be capped at 200,000,000. They will be dist
 | 5% (10,000,000):   | Current stakeholders          |
 | 80% (160,000,000): | A number of rounds of presale |
 
-![Initial Distribution of Desmos](https://github.com/forbole/whitepaper/blob/master/Forbole%20-%20Desmo%20Initial%20Distribution%20.png)
-
 #### Investment arm of FL \(10\%\)
 
 To achieve decentralization, we need to create a diversity of projects on FBC. We cannot (and should not) develop all the projects by ourselves. Instead of solely relying on in-house team, we will create an investment arm under FL to invest in Forbole ecosystem projects.
