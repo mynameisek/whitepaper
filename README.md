@@ -4,7 +4,7 @@
 Kwun Yeung (kwun@forbole.com)<br/>
 Terence Lam (terence@forbole.com)
 
-**This Whitepaper is outdated. The next modification will be published before 30 April 2019**
+**This Whitepaper is outdated. The expected date of publishing next modification 30 June 2019**
 
 ## Table of Contents
 
